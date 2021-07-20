@@ -30,8 +30,8 @@ author_profile: true
 
 
 ## Conference Papers
-*Junhao Huang, Bing Xue, **Yanan Sun**, Mengjie Zhang, [“A flexible variable-length particle swarm optimization approach to convolutional neural network architecture design](#) ,” Accepted by IEEE Congress on Evolutionary Computation 2021 (CEC2021), 28 June-1 July, Kraków, Poland (VIRTUAL), 2021. **Best Student Paper Nomination**
-*Xun Zhou, A.K. Qin, **Yanan Sun**, Kay Chen Tan, [“A survey of advances in evolutionary neural architecture search](#) ,” Accepted by IEEE Congress on Evolutionary Computation 2021 (CEC2021), 28 June-1 July, Kraków, Poland (VIRTUAL), 2021.
+* Junhao Huang, Bing Xue, **Yanan Sun**, Mengjie Zhang, [“A flexible variable-length particle swarm optimization approach to convolutional neural network architecture design](#) ,” Accepted by IEEE Congress on Evolutionary Computation 2021 (CEC2021), 28 June-1 July, Kraków, Poland (VIRTUAL), 2021. **Best Student Paper Nomination**
+* Xun Zhou, A.K. Qin, **Yanan Sun**, Kay Chen Tan, [“A survey of advances in evolutionary neural architecture search](#) ,” Accepted by IEEE Congress on Evolutionary Computation 2021 (CEC2021), 28 June-1 July, Kraków, Poland (VIRTUAL), 2021.
 * Jindi Lv, Qing Ye, **Yanan Sun**, Juan Zhao, Jiancheng Lv, [“Heart-Darts: Classification of Heartbeats Using Differentiable Architecture Search](#) ,” Accepted by International Joint Conference on Neural Networks (IJCNN 2021), Virtual Event, 18-22th July, 2021.
 * Wenxin Zhao, **Yanan Sun**, Bing Xue, [“Improved bianry particle swarm optimization with evolutionary population dynamic for key oncogene selection](https://ieeexplore.ieee.org/abstract/document/9308540) ,” Proceedings of IEEE Symposium Series on Computational Intelligence (SSCI 2020), Canberra Australia, 1-4 December, 2020, PP. 897-904. DOI: 10.1109/SSCI47803.2020.9308540.
 * Yuqiao Liu, **Yanan Sun**, Bing Xue, Mengjie Zhang, [“Evolving deep convolutional neural networks for hyperspectral image denoising](https://ieeexplore.ieee.org/document/9207509) ,” Proceedings of International Joint Conference on Neural Networks (IJCNN 2020), Glasgow (UK), 19-24th July, 2020, DOI: 10.1109/IJCNN48605.2020.9207509.
