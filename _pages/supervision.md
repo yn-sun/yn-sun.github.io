@@ -15,13 +15,21 @@ author_profile: true
 * Zixuan Liang, Master Student
 * Yuwei Ou, Master Student
 
+### 2021(Undergraduate Thesis)
+* Computer Science:Yiheng Wang, Wenxin Zhao, Yuesong Feng, Siyi Wu, Youxiang Huang, Guanhong Liu
+* Software Engeering: Xiangning Xie (Best Undergraduate Thesis Award), Jiajun Yan
+* Foreign students: Ahammad Akbar Bin Kabir, Md Ilius Mahfuz， Mahamendige Dakshana Tharinda Mendis, Md Abdul Mazed Siddiki, Pasindu Himantha Kumara Merrennya, Alvin Reuben Walker, K. Gedara Mudiyansela Dulmini Nilushi B.
+
+### 2021(Young talent Programm)
+* Kailin Deng (high-middle school student at the second year)
+
 ### 2020
 * Jie wu, Master Student, “Evolutionary Neural Architecture Search for Multi-task Learning”
 * Yuqiao Liu, Master Student, “Neural Predictors for Evolutionary Neural Architecture Search”
 * Siyi Li, Master Student, “Constrained Evolutionary Neural Architecture Search”
 
 ### 2020(Undergraduate Thesis)
-* Computer Science: Yuqiao Liu, Yunxiang Song, Weizhen Xu, Siyi Li
+* Computer Science: Yuqiao Liu (Best Undergraduate Thesis Award), Yunxiang Song, Weizhen Xu, Siyi Li
 * Software Engeering: Yi Chen, Haoming Wang
 * Foreign students: Preman Dewasiri Ishara Shaminda, Malinda Rukshan, Santosh Ghimire, Rohit Sharma
 
