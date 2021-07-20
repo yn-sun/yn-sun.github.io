@@ -7,13 +7,18 @@ author_profile: true
 
 ## Supervision at Sichuan University
 ### 2021
-* Xiangning Xie, PhD Student, “Representations and Encoding Methods for Deep Neural Network Architectures“
+* Xiangning Xie, PhD Student, "Representations and Encoding Methods for Deep Neural Network Architectures"
+* Shengjia Chen, PhD Student
+* Zeqiong Lv, PhD Student
+* Peng Zeng, Master Student
+* Xiao Chen, Master Student
+* Zixuan Liang, Master Student
+* Yuwei Ou, Master Student
 
 ### 2020
 * Jie wu, Master Student, “Evolutionary Neural Architecture Search for Multi-task Learning”
 * Yuqiao Liu, Master Student, “Neural Predictors for Evolutionary Neural Architecture Search”
 * Siyi Li, Master Student, “Constrained Evolutionary Neural Architecture Search”
-* Ben Feng, Master Student, “Evolutionary Neural Architecture Search for Natural Language Processing”
 
 ### 2020(Undergraduate Thesis)
 * Computer Science: Yuqiao Liu, Yunxiang Song, Weizhen Xu, Siyi Li
