@@ -37,8 +37,8 @@ author_profile: true
 
 # Supervision at Victoria University of Wellington
 ## 2020
-* Phd Student: Junhao Huang (co-supervised with Bing Xue, Mengjie Zhang), "Evolutionary Design of Deep Neural Networks", 2020-2024
-* 
+* Phd Student: Junhao Huang (co-supervised with Bing Xue, Mengjie Zhang), "Evolutionary Design of Deep Neural Networks", 2020-2024'
+
 ## 2019
 * Summer Scholar: Bin Wang (co-supervised with Bing Xue, Mengjie Zhang), “Evolving deep neural networks by multi-objective particle swarm optimization for image classification Publications”, in this research, Bin has produced two papers that have been accepted by GECCO2019 and PRICAI2019, respectively.
 
