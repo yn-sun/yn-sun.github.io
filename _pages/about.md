@@ -16,6 +16,10 @@ redirect_from:
 Wangjiang Campus, Sichuan University\\
 No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
+Notice
+======
+I am looking for self-motivated Ph.D students to be enrolled in 2022, please drop me an email.
+
 News
 ======
 * [Dec 2020] One paper is accepted by IEEE Transactions on Parallel and Distributed Systems (TPDS)
@@ -30,7 +34,3 @@ News
 * [Jun 2019] One paper is accepted by the 16th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2019)
 * [Apr 2019] One paper is accepted by IEEE Transactions on Neural Networks and Learning System (TNNLS)
 * [Mar 2019] I left Victoria University of Wellington and will join Sichuan University
-
-Notice
-======
-I am looking for self-motivated Ph.D students to be enrolled in 2021, please drop me an email.

@@ -14,9 +14,6 @@ main:
         
   - title: "Supervision"
     url: /supervision/
-    
-  - title: "Open project"
-    url: /openproject/
-    
-  - title: "Other"
+
+  - title: "Useful Links"
     url: /other/

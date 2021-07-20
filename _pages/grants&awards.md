@@ -11,11 +11,6 @@ author_profile: true
 * Multimedia data abstract extraction and evaluation system, Sichuan Province Innovation Youth Fund, 2016-2017, Grant: 20,000 RMB. (PI)
 * Large-scale video retrieval based on deep learning, Sichuan Province Innovation Youth Fund, 2014-2015, Grant: 20,000 RMB. (PI)
 
-### As participant/main participant
-* Therapeutic Effect and Prognosis for Biological Subtypes of Schizophrenia: A Prospective Multimodal Neuroimaging Study, National Natural Science Foundation of China, 2019-2021, PI is Sugai Liang from Sichuan University.
-* Uncertainty probability model learning based on model detection, Natural Science Foundation of China, 2014-2015, PI is Hua Mao from Sichuan University.
-* Study on the technique of predicting upon craniomaxillofacial surgery, Natural Science Foundation of China, 2012-2013, PI is Jixiang Guo from Sichuan Univeristy.
-
 ## Awards
 * 2016, IEEE CIS Chengdu Section, Best Student Paper Award.
 * 2016, National Scholarship of China.
