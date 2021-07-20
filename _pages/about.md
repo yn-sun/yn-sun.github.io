@@ -10,8 +10,8 @@ redirect_from:
 
 * Research Professor (This is the same level as a full professor but is without teaching duty)
 * Department of Artificial Intelligence\\
-[College of Computer Science](http://cs.scu.edu.cn/) \\
-[Sichuan University, China](https://www.scu.edu.cn/)
+College of Computer Science \\
+Sichuan University, China
 * Basic Building B 422B\\
 Wangjiang Campus, Sichuan University\\
 No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
