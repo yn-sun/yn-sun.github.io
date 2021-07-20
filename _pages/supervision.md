@@ -5,7 +5,7 @@ permalink: /supervision/
 author_profile: true
 ---
 
-# Supervision at Sichuan University
+# @ Sichuan University
 ## 2021
 ### Graduate Student
 * Xiangning Xie, PhD Student, "Representations and Encoding Methods for Deep Neural Network Architectures"
@@ -35,7 +35,7 @@ author_profile: true
 * Software Engeering: Yi Chen, Haoming Wang
 * Foreign students: Preman Dewasiri Ishara Shaminda, Malinda Rukshan, Santosh Ghimire, Rohit Sharma
 
-# Supervision at Victoria University of Wellington
+# @ Victoria University of Wellington
 ## 2020
 * Phd Student: Junhao Huang (co-supervised with Bing Xue, Mengjie Zhang), "Evolutionary Design of Deep Neural Networks", 2020-2024
 
