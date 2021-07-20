@@ -7,8 +7,12 @@ author_profile: true
 
 ## Academic Activity
 
+* Editorial Memeber of Memetic Computing (IF:5.90, JCR Q1)
+* Chair of IEEE Symposium 2022 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA2022)
+* Chair of IEEE Symposium 2021 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA2021)
+* Guest Editor:special issue of Evolutionary Neural Architecture Search and Applications, IEEE Computational Intelligence Magazine, 2020
 * Senior Program Committee of IJCAI2021
-* Chair of IEEE Symposium 2020 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA)
+* Chair of IEEE Symposium 2020 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA2020)
 * Founding Chair of the IEEE CIS Task-force on “Evolutionary Deep Learning and Applications”
 * IEEE CIS Graduate Student Research Grants Committee Member (leading the direction of Evolutionary Systems)
 * Guest Editor: Special Issue on Evolutionary Feature Learning in Image and Pattern Recogintion, Feature Reduction and Learning, Applied Soft Computing (Journal), Springer, 2017
