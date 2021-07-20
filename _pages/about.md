@@ -16,7 +16,7 @@ redirect_from:
 Wangjiang Campus, Sichuan University\\
 No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
-I am looking for self-motivated Ph.D students to be enrolled in 2022, please drop me an email.
+<span style="color: #0000a0">I am looking for self-motivated Ph.D students to be enrolled in 2022, please drop me an email.</span>
 
 Research Interest
 ======
