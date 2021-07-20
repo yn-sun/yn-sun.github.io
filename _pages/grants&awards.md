@@ -19,6 +19,6 @@ author_profile: true
 * 2015, Oversea PhD Scholarship (Awarded by China Scholarship Council)
 
 ## Chinese Patents (As first authorship)
-* 2020, An architecture search algorithm for convolutional variational autoencoder based on genetic algorithm, NO. ZL202010194858.1.
-* 2020, A GPU card management method, system and storage medium of multi GPU server in distributed environment, NO. ZL202010081235.3.
-* 2020, A face recognition method based on evolutionary convolutional neural architecture search, NO. ZL20201095004.5. 
+* An architecture search algorithm for convolutional variational autoencoder based on genetic algorithm, NO. ZL202010194858.1.
+* A GPU card management method, system and storage medium of multi GPU server in distributed environment, NO. ZL202010081235.3.
+* A face recognition method based on evolutionary convolutional neural architecture search, NO. ZL20201095004.5. 
