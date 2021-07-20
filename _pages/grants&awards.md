@@ -1,0 +1,28 @@
+---
+layout: archive
+title: "Grants & Awards"
+permalink: /grants&awards/
+author_profile: true
+---
+
+## Grants
+### As project leader (PI)
+* Evolutionary computation-based architecture optimization for convolutional neural network, National Natural Science Foundation of China, 2019-2021. Grant: 280,000 RMB. (PI)
+* Multimedia data abstract extraction and evaluation system, Sichuan Province Innovation Youth Fund, 2016-2017, Grant: 20,000 RMB. (PI)
+* Large-scale video retrieval based on deep learning, Sichuan Province Innovation Youth Fund, 2014-2015, Grant: 20,000 RMB. (PI)
+
+### As participant/main participant
+* Therapeutic Effect and Prognosis for Biological Subtypes of Schizophrenia: A Prospective Multimodal Neuroimaging Study, National Natural Science Foundation of China, 2019-2021, PI is Sugai Liang from Sichuan University.
+* Uncertainty probability model learning based on model detection, Natural Science Foundation of China, 2014-2015, PI is Hua Mao from Sichuan University.
+* Study on the technique of predicting upon craniomaxillofacial surgery, Natural Science Foundation of China, 2012-2013, PI is Jixiang Guo from Sichuan Univeristy.
+
+## Awards
+* 2016, IEEE CIS Chengdu Section, Best Student Paper Award.
+* 2016, National Scholarship of China.
+* 2016, IEEE Student Travel Grant.
+* 2015, Oversea PhD Scholarship (Awarded by China Scholarship Council)
+
+## Patents
+* 2019, A method of convolutional neural network performance prediction, No.201910532804.9 (In process)
+* 2019, A method of accelerating the neural network architecture selection, No.201910589376.3 (In process)
+* 2019, A method of describing neural architectures based on cells, No.201910813651.5 (In process)

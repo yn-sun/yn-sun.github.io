@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Grants&Awards"
+    url: /grants&awards/
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Services"
+    url: /services/
+        
+  - title: "Supervision"
+    url: /supervision/
+    
+  - title: "Open project"
+    url: /openproject/
+    
+  - title: "Other"
+    url: /other/
