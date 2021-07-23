@@ -4,10 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+*indicating the corresponding author
 ## Journal Papers
 
-*indicating the corresponding author
 * **Yanan Sun**, Xian Sun, Yuhan Fang, Gary G. Yen, Yuqiao Liu, "A novel training protocol for performance predictors of evolutionary neural architecture search algorithms,"<i>IEEE Transactions on Evolutionary Computation</i>, 2021. DOI:10.1109/TEVC.2021.3055076. [[http]](https://ieeexplore.ieee.org/document/9336721) [Experimental Data](https://github.com/yn-sun/PRI)
 * Xiangru Chen, **Yanan Sun***, Mengjie Zhang, Dezhong Peng, "Evolving deep convolutional variational autoencoders for image classification,"<i>IEEE Transactions on Evolutionary Computation</i>, 2020. DOI:10.1109/TEVC.2020.3047220. [[http]](https://ieeexplore.ieee.org/document/9306892) [Source code](https://github.com/yn-sun/evovae)
 * Qing Ye, **Yanan Sun***, Jixin Zhang, Jiancheng Lv*, "A distributed framework for EA-based NAS,"<i>IEEE Transactions on Parallel and Distributed Systems</i>, vol. 32, no. 7, pp. 1753-1764, 2020. DOI:10.1109/TPDS.2020.3046774. [[http]](https://ieeexplore.ieee.org/document/9305984)
@@ -30,6 +29,7 @@ author_profile: true
 
 
 ## Conference Papers
+* Yuqiao Liu, Yehui Tang, **Yanan Sun***, "Homogeneous architecture augmentation for neural predictor," Accepted by IEEE International Conference on Computer Vision (ICCV2021).
 * Junhao Huang, Bing Xue, **Yanan Sun**, Mengjie Zhang, "A flexible variable-length particle swarm optimization approach to convolutional neural network architecture design," Accepted by <i>IEEE Congress on Evolutionary Computation 2021 (CEC2021)</i>, 28 June-1 July, Kraków, Poland (VIRTUAL), 2021. **Best Student Paper Nomination**
 * Xun Zhou, A.K. Qin, **Yanan Sun**, Kay Chen Tan, "A survey of advances in evolutionary neural architecture search," Accepted by <i>IEEE Congress on Evolutionary Computation 2021 (CEC2021)</i>, 28 June-1 July, Kraków, Poland (VIRTUAL), 2021.
 * Jindi Lv, Qing Ye, **Yanan Sun**, Juan Zhao, Jiancheng Lv, "Heart-Darts: Classification of Heartbeats Using Differentiable Architecture Search," Accepted by <i>International Joint Conference on Neural Networks (IJCNN 2021)</i>, Virtual Event, 18-22th July, 2021.
