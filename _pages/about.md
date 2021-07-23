@@ -19,7 +19,7 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 News
 ======
 * <span style="color: #0000a0">I am looking for self-motivated Ph.D students to be enrolled in 2022, please drop me an email.</span>
-* July 2021, one of work focusing on <span style="color: #FFB400">improving efficiency of NAS</span> is accepted by ICCV21.
+* July 2021, one of work focusing on <span style="color: #FF0000">improving efficiency of NAS</span> is accepted by ICCV21.
 
 Research Interest
 ======
