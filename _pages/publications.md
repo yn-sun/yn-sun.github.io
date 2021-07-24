@@ -7,7 +7,7 @@ author_profile: true
 *indicating the corresponding author
 ## Journal Papers
 
-1. Yuqiao Liu, **Yanan Sun***, Bing Xue, Mengjie Zhang, Gary Yen, Kay Chen Tan, "A survey on evolutionary neural architecture search," Accepted by <i>IEEE Transactions on Evolutionary Computation</i>, 2021.
+1. Yuqiao Liu, **Yanan Sun***, Bing Xue, Mengjie Zhang, Gary Yen, Kay Chen Tan, "A survey on evolutionary neural architecture search," Accepted by <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2021.
 2. **Yanan Sun**, Xian Sun, Yuhan Fang, Gary G. Yen, Yuqiao Liu, "A novel training protocol for performance predictors of evolutionary neural architecture search algorithms," <i>IEEE Transactions on Evolutionary Computation</i>, vol. 25, no. 3, pp. 524-536, 2021. DOI:10.1109/TEVC.2021.3055076. [[http]](https://ieeexplore.ieee.org/document/9336721) [Experimental Data](https://github.com/yn-sun/PRI)
 3. Yao Chen, **Yanan Sun***, Jiancheng Lv, Bijue Jia, Xiaoming Huang, "End-to-end heart sound segmentation using deep convolutional recurrent network," <i>Complex & Intelligent Systems</i>, 2021. DOI:10.1007/s40747-021-00325-w. [[http]](https://link.springer.com/article/10.1007/s40747-021-00325-w)
 4. Xiangru Chen, **Yanan Sun***, Mengjie Zhang, Dezhong Peng, "Evolving deep convolutional variational autoencoders for image classification," <i>IEEE Transactions on Evolutionary Computation</i>, 2020. DOI:10.1109/TEVC.2020.3047220. [[http]](https://ieeexplore.ieee.org/document/9306892) [Source code](https://github.com/yn-sun/evovae)
