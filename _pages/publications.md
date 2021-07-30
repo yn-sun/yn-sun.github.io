@@ -31,7 +31,7 @@ author_profile: true
 
 
 ## Conference Papers
-1. Yuqiao Liu, Yehui Tang, **Yanan Sun***, "Homogeneous architecture augmentation for neural predictor," Accepted by IEEE International Conference on Computer Vision (ICCV2021).
+1. Yuqiao Liu, Yehui Tang, **Yanan Sun***, "Homogeneous architecture augmentation for neural predictor," Accepted by IEEE International Conference on Computer Vision (ICCV2021). [[Arxiv]](https://arxiv.org/pdf/2107.13153.pdf) [Source code](https://github.com/lyq998/HAAP)
 2. Junhao Huang, Bing Xue, **Yanan Sun**, Mengjie Zhang, "A flexible variable-length particle swarm optimization approach to convolutional neural network architecture design," Accepted by <i>IEEE Congress on Evolutionary Computation 2021 (CEC2021)</i>, 28 June-1 July, Kraków, Poland (VIRTUAL), 2021. <span style="color: #FF0000">Best Student Paper Nomination (ONLY four among >400 accepted papers)</span>
 3. Xun Zhou, A.K. Qin, **Yanan Sun**, Kay Chen Tan, "A survey of advances in evolutionary neural architecture search," Accepted by <i>IEEE Congress on Evolutionary Computation 2021 (CEC2021)</i>, 28 June-1 July, Kraków, Poland (VIRTUAL), 2021.
 4. Jindi Lv, Qing Ye, **Yanan Sun**, Juan Zhao, Jiancheng Lv, "Heart-Darts: Classification of Heartbeats Using Differentiable Architecture Search," Accepted by <i>International Joint Conference on Neural Networks (IJCNN 2021)</i>, Virtual Event, 18-22th July, 2021.
