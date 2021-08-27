@@ -7,6 +7,7 @@ author_profile: true
 
 ## Academic Activity
 
+* Program Chair of [2021 5th International Conference on Computer Science and Artificial Intelligence](http://csai.org/index.html)
 * Editorial Memeber of Memetic Computing (IF:5.90, JCR Q1)
 * Chair of IEEE Symposium 2022 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA2022)
 * Chair of IEEE Symposium 2021 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA2021)
