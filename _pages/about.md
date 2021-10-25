@@ -19,6 +19,7 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 News
 ======
 * <span style="color: #0000a0">I am looking for self-motivated Ph.D students to be enrolled in 2022, please drop me an email with your CV and a research plan releated to my research interest.</span>
+* One of our work focusing on <span style="color: #FF0000">Constraint NAS</span> is accepted by TNNLS.
 * One of our work focusing on <span style="color: #FF0000">improving efficiency of NAS</span> is accepted by ICCV21.
 
 Research Interest
