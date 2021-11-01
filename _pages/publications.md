@@ -7,7 +7,7 @@ author_profile: true
 *indicating the corresponding author
 ## Journal Papers
 
-1. Siyi Li, **Yanan Sun***, Gary G. Yen, Mengjie Zhang, "Automatic design of convolutional neural network architectures under resource constraints", Accepted by <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2021, DOI:10.1109/TNNLS.2021.3123105.
+1. Siyi Li, **Yanan Sun***, Gary G. Yen, Mengjie Zhang, "Automatic design of convolutional neural network architectures under resource constraints", Accepted by <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2021, DOI:10.1109/TNNLS.2021.3123105. [Source code] (https://github.com/LLLsy-0868/CH-CNN)
 2.  Yunhong Gong, **Yanan Sun***, Dezhong Peng, Peng Chen, Zhongtai Yan, Ke Yang, "Analyze COVID-19 CT images based on evolutionary algorithm with dynamic searching space", Accepted by <i>Complex & Intelligent Systems</i>, 2021. DOI:10.1007/s40747-021-00513-8. [[http]](https://link.springer.com/article/10.1007%2Fs40747-021-00513-8) [Source code](https://github.com/yh-gong/EAVLCOVID)
 3. Yuqiao Liu, **Yanan Sun***, Bing Xue, Mengjie Zhang, Gary Yen, Kay Chen Tan, "A survey on evolutionary neural architecture search," Accepted by <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2021. DOI:10.1109/TNNLS.2021.3100554. [[http]](https://ieeexplore.ieee.org/abstract/document/9508774)
 4. **Yanan Sun**, Xian Sun, Yuhan Fang, Gary G. Yen, Yuqiao Liu, "A novel training protocol for performance predictors of evolutionary neural architecture search algorithms," <i>IEEE Transactions on Evolutionary Computation</i>, vol. 25, no. 3, pp. 524-536, 2021. DOI:10.1109/TEVC.2021.3055076. [[http]](https://ieeexplore.ieee.org/document/9336721) [Experimental Data](https://github.com/yn-sun/PRI)
