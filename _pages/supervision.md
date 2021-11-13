@@ -33,6 +33,11 @@ Zilin Xiao(https://zilin.me/) (@Chinese University of Hong Kong for MPhil from 2
 * Yuqiao Liu, Master Student, “Neural Predictors for Evolutionary Neural Architecture Search”
 * Siyi Li, Master Student, “Constrained Evolutionary Neural Architecture Search”
 
+### Top-notch class student:
+Zirao Ren (@Beihang University for master degree from 2021)
+Youxiang Huang (@Sichuan University for master degree from 2021)
+
+
 ### Undergraduate Thesis
 * Computer Science: Yuqiao Liu (Best Undergraduate Thesis Award), Yunxiang Song, Weizhen Xu, Siyi Li
 * Software Engeering: Yi Chen, Haoming Wang
