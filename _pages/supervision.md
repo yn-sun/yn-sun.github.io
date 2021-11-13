@@ -17,7 +17,7 @@ author_profile: true
 * Yuwei Ou, Master Student
 
 ### Top-notch class student:
-* Zilin Xiao(https://zilin.me/) (@Chinese University of Hong Kong for MPhil from 2022)
+* [Zilin Xiao](https://zilin.me/) (@Chinese University of Hong Kong for MPhil from 2022)
 
 ### Undergraduate Thesis
 * Computer Science:Yiheng Wang, Wenxin Zhao, Yuesong Feng, Siyi Wu, Youxiang Huang, Guanhong Liu
