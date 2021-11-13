@@ -7,7 +7,7 @@ author_profile: true
 *indicating the corresponding author
 ## Journal Papers
 
-1. Yanan Sun, Gary G. Yen, Bing Xue, Mengjie Zhang, Jiancheng Lv, "ArcText: A unified text approach to describing convolutional neural network architectures," Accepted by <i>IEEE Transactions on Artificial Intelligence</i>, 2021.
+1. **Yanan Sun**, Gary G. Yen, Bing Xue, Mengjie Zhang, Jiancheng Lv, "ArcText: A unified text approach to describing convolutional neural network architectures," Accepted by <i>IEEE Transactions on Artificial Intelligence</i>, 2021.
 2. Siyi Li, **Yanan Sun***, Gary G. Yen, Mengjie Zhang, "Automatic design of convolutional neural network architectures under resource constraints", Accepted by <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2021, DOI:10.1109/TNNLS.2021.3123105. [[http]](https://ieeexplore.ieee.org/document/9609007) [Source code](https://github.com/LLLsy-0868/CH-CNN)
 3.  Yunhong Gong, **Yanan Sun***, Dezhong Peng, Peng Chen, Zhongtai Yan, Ke Yang, "Analyze COVID-19 CT images based on evolutionary algorithm with dynamic searching space", Accepted by <i>Complex & Intelligent Systems</i>, vol. 7. no. 6, pp. 3195-3209, 2021. DOI:10.1007/s40747-021-00513-8. [[http]](https://link.springer.com/article/10.1007%2Fs40747-021-00513-8) [Source code](https://github.com/yh-gong/EAVLCOVID)
 4. Yuqiao Liu, **Yanan Sun***, Bing Xue, Mengjie Zhang, Gary Yen, Kay Chen Tan, "A survey on evolutionary neural architecture search," Accepted by <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2021. DOI:10.1109/TNNLS.2021.3100554. [[http]](https://ieeexplore.ieee.org/abstract/document/9508774)
