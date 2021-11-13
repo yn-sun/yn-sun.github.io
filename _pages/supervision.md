@@ -16,6 +16,9 @@ author_profile: true
 * Zixuan Liang, Master Student
 * Yuwei Ou, Master Student
 
+### Top-notch class student:
+Zilin Xiao(@Chinese University of Hong Kong for MPhil from 2022)
+
 ### Undergraduate Thesis
 * Computer Science:Yiheng Wang, Wenxin Zhao, Yuesong Feng, Siyi Wu, Youxiang Huang, Guanhong Liu
 * Software Engeering: Xiangning Xie (Best Undergraduate Thesis Award), Jiajun Yan
