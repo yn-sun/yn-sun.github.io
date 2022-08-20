@@ -35,7 +35,7 @@ author_profile: true
 
 
 ## Conference Papers
-1. Rui Zhang, Andrew Lensen, **Yanan Sun***, "Speeding up genetic programming based symbolic regression using GPUs," Accepted by <i>The 19th Pacific Rim International Conference on Artificial Intelligence (PRICAI2022)</i>, Shanghai, China, 10-13th November, 2022。
+1. Rui Zhang, Andrew Lensen, **Yanan Sun***, "Speeding up genetic programming based symbolic regression using GPUs," Accepted by <i>The 19th Pacific Rim International Conference on Artificial Intelligence (PRICAI2022)</i>, Shanghai, China, 10-13th November, 2022.
 2. Jie Wu, **Yanan Sun***, "Adaptively joint pixel-wise semantic correlation in surface normal estimation," Accepted by <i>International Joint Conference on Neural Networks (IJCNN 2022)</i>, Padua, Italy, 18-23th July, 2022.
 3. Zilin Xiao, **Yanan Sun***, "Exploring the effectiveness of appearance descriptor in DeepSORT," Accepted by <i>International Joint Conference on Neural Networks (IJCNN 2022)</i>, Padua, Italy, 18-23th July, 2022.
 4. Shuchao Deng, **Yanan Sun***, Galvan Edgar, "Neural architecture search using genetic algorithm for facial expression recognition," Accepted by <i>The Genetic and Evolutionary Computation Conference 2022 (GECCO2022)</i>, July 9-13, 2022, Boston (hybrid), USA.
