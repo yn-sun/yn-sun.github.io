@@ -7,7 +7,7 @@ author_profile: true
 *indicating the corresponding author
 ## Journal Papers
 
-1. Qing Ye, Yuhao Zhou, Mingjia Shi, \textbf{Yanan Sun}, Jiancheng Lv, ``DLB: A dynamic load balance strategy for distributed training of deep neural networks,” <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, Accepted. [Source code](https://github.com/Soptq/Dynamic_Load_Balance_DistributedDNN)
+1. Qing Ye, Yuhao Zhou, Mingjia Shi, \textbf{Yanan Sun}, Jiancheng Lv, "DLB: A dynamic load balance strategy for distributed training of deep neural networks," <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, Accepted. [Source code](https://github.com/Soptq/Dynamic_Load_Balance_DistributedDNN)
 2. Zhanao Huang, Yongsheng Sang, **Yanan Sun**, Jiancheng Lv, "A neural network learning algorithm for highly imbalanced data classification," <i>Information Sciences</i>, vol. 612, pp. 496-513, 2022, DOI:10.1016/j.ins.2022.08.074.  [[http]](https://www.sciencedirect.com/science/article/pii/S0020025522009847)  [Source code](https://github.com/yn-sun/paper_source_code/tree/main/ZAH_IS_Paper)
 3. Xiangning Xie, Yuqiao Liu, **Yanan Sun***, Gary G. Yen, Bing Xue, Mengjie Zhang, "BenchENAS: A benchmarking platform for evolutionary neural architecture search," <i>IEEE Transactions on Evolutionary Computation</i>, 2022, DOI:10.1109/TEVC.2022.3147526. [[http]](https://ieeexplore.ieee.org/document/9697075)  [Source code](https://benchenas.com/)
 4. **Yanan Sun**, Gary G. Yen, Bing Xue, Mengjie Zhang, Jiancheng Lv, "ArcText: A unified text approach to describing convolutional neural network architectures," <i>IEEE Transactions on Artificial Intelligence</i>, 2021, DOI:10.1109/TAI.2021.3128502. [[http]](https://ieeexplore.ieee.org/document/9618852) [Source code](https://github.com/yn-sun/arctext)&nbsp;&nbsp;<span style="color: #FF0000">Research Frontier Paper (ONLY one per issue)</span>
@@ -37,8 +37,8 @@ author_profile: true
 
 
 ## Conference Papers
-1. Yuqiao Liu, Yunhe Wang, Yehui Tang, Zeqiong Lv, **Yanan Sun***, ``Bridge the gap between architecture spaces via a cross-domain predictor,'' <i>The 36th Conference on Neural Information Processing Systems (NeurIPS2022)</i>, New Orleans, USA, 28th November-8th December, 2022.
-2. Jie Wu, Ben Feng, **Yanan Sun***, ``Genetic algorithm-based transformer architecture design for neural machine translation,'' <i>The 5th International Conference on Machine Learning and Machine Intelligence (MLMI2022)</i>, Hangzhou, China, 23-25th September, 2022. <span style="color: #FF0000">Best Paper</span>
+1. Yuqiao Liu, Yunhe Wang, Yehui Tang, Zeqiong Lv, **Yanan Sun***, "Bridge the gap between architecture spaces via a cross-domain predictor," <i>The 36th Conference on Neural Information Processing Systems (NeurIPS2022)</i>, New Orleans, USA, 28th November-8th December, 2022.
+2. Jie Wu, Ben Feng, **Yanan Sun***, "Genetic algorithm-based transformer architecture design for neural machine translation," <i>The 5th International Conference on Machine Learning and Machine Intelligence (MLMI2022)</i>, Hangzhou, China, 23-25th September, 2022. <span style="color: #FF0000">Best Paper</span>
 3. Rui Zhang, Andrew Lensen, **Yanan Sun***, "Speeding up genetic programming based symbolic regression using GPUs," <i>The 19th Pacific Rim International Conference on Artificial Intelligence (PRICAI2022)</i>, Shanghai, China, 10-13th November, 2022.  [Source code]([https://github.com/J-Wu97/EVO-MTL](https://github.com/yn-sun/paper_source_code/tree/main/zhangrui_pricai))
 4. Jie Wu, **Yanan Sun***, "Adaptively joint pixel-wise semantic correlation in surface normal estimation," <i>International Joint Conference on Neural Networks (IJCNN 2022)</i>, Padua, Italy, 18-23th July, 2022.
 5. Zilin Xiao, **Yanan Sun***, "Exploring the effectiveness of appearance descriptor in DeepSORT," <i>International Joint Conference on Neural Networks (IJCNN 2022)</i>, Padua, Italy, 18-23th July, 2022.
