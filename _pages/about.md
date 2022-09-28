@@ -19,6 +19,8 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 News
 ======
 * I am looking for self-motivated Ph.D students to be <span style="color: #0000a0">enrolled in 2023</span>, please drop me an email with your CV and a research plan releated to my research interest.
+* One of our work focusing on <span style="color: #FF0000">Performance Predictor for NAS</span> is accepted by NeurIPS2022.
+* One of our work focusing on <span style="color: #FF0000">Evolving Transformer</span> is awarded as Best Paper by MLMI2022.
 * One of our work focusing on <span style="color: #FF0000">Benchmark Platform of ENAS</span> is accepted by TEVC.
 * One of our work focusing on <span style="color: #FF0000">Constraint NAS</span> is accepted by TNNLS.
 * One of our work focusing on <span style="color: #FF0000">improving efficiency of NAS</span> is accepted by ICCV21.
