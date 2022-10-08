@@ -37,7 +37,7 @@ author_profile: true
 
 
 ## Conference Papers
-1. Yuqiao Liu, Yunhe Wang, Yehui Tang, Zeqiong Lv, **Yanan Sun***, "Bridge the gap between architecture spaces via a cross-domain predictor," <i>The 36th Conference on Neural Information Processing Systems (NeurIPS2022)</i>, New Orleans, USA, 28th November-8th December, 2022.
+1. Junhao Huang, Bing Xue, **Yanan Sun**, Mengjie Zhang, "EDE-NAS: An eclectic differential evolution approach to single-path neural architecture search," <i>The 35th Australasian Joint Conference on Artificial Intelligence (AJCAI2022)</i>, Perth, Western Australia, 5-8th December, 2022.
 2. Jie Wu, Ben Feng, **Yanan Sun***, "Genetic algorithm-based transformer architecture design for neural machine translation," <i>The 5th International Conference on Machine Learning and Machine Intelligence (MLMI2022)</i>, Hangzhou, China, 23-25th September, 2022. <span style="color: #FF0000">Best Paper</span>
 3. Rui Zhang, Andrew Lensen, **Yanan Sun***, "Speeding up genetic programming based symbolic regression using GPUs," <i>The 19th Pacific Rim International Conference on Artificial Intelligence (PRICAI2022)</i>, Shanghai, China, 10-13th November, 2022.  [Source code]([https://github.com/J-Wu97/EVO-MTL](https://github.com/yn-sun/paper_source_code/tree/main/zhangrui_pricai))
 4. Jie Wu, **Yanan Sun***, "Adaptively joint pixel-wise semantic correlation in surface normal estimation," <i>International Joint Conference on Neural Networks (IJCNN 2022)</i>, Padua, Italy, 18-23th July, 2022.
