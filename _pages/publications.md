@@ -7,7 +7,7 @@ author_profile: true
 *indicating the corresponding author
 ## Journal Papers
 
-1. Junhao Huang, Bing Xue, Yanan Sun, Mengjie Zhang, Gary Yen, "Particle Swarm Optimization for Compact Neural Architecture Search for Image Classification," <i>IEEE Transactions on Evolutionary Computation</i>, 2022, 10.1109/TEVC.2022.3217290. 
+1. Junhao Huang, Bing Xue, Yanan Sun, Mengjie Zhang, Gary Yen, "Particle Swarm Optimization for Compact Neural Architecture Search for Image Classification," <i>IEEE Transactions on Evolutionary Computation</i>, 2022, DOI:10.1109/TEVC.2022.3217290. 
 2. Qing Ye, Yuhao Zhou, Mingjia Shi, \textbf{Yanan Sun}, Jiancheng Lv, "DLB: A dynamic load balance strategy for distributed training of deep neural networks," <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, Accepted. [Source code](https://github.com/Soptq/Dynamic_Load_Balance_DistributedDNN)
 3. Zhanao Huang, Yongsheng Sang, **Yanan Sun**, Jiancheng Lv, "A neural network learning algorithm for highly imbalanced data classification," <i>Information Sciences</i>, vol. 612, pp. 496-513, 2022, DOI:10.1016/j.ins.2022.08.074.  [[http]](https://www.sciencedirect.com/science/article/pii/S0020025522009847)  [Source code](https://github.com/yn-sun/paper_source_code/tree/main/ZAH_IS_Paper)
 4. Xiangning Xie, Yuqiao Liu, **Yanan Sun***, Gary G. Yen, Bing Xue, Mengjie Zhang, "BenchENAS: A benchmarking platform for evolutionary neural architecture search," <i>IEEE Transactions on Evolutionary Computation</i>, 2022, DOI:10.1109/TEVC.2022.3147526. [[http]](https://ieeexplore.ieee.org/document/9697075)  [Source code](https://benchenas.com/)
