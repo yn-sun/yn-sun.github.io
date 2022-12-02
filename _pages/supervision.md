@@ -6,15 +6,23 @@ author_profile: true
 ---
 
 # @ Sichuan University
+## 2022
+### Graduate Students
+* Yuqi Feng, PhD Student, "Robustness neural architecture search"
+* Yun Liu, PhD Student, "Neural architecture search for combinational optimization"
+* Minxiao Zhong, PhD Student, "Neural architecture search and its applications to intelligent nuclear industry"
+* Shuchao Deng, Master Student, "Neural architecture search for science"
+* Xiaotian Song, Master Student, "Spiking neural architecture search"
+* Chengzhe Feng, Master Student, "Neural architecture search for software engineering"
+
 ## 2021
 ### Graduate Student
-* Xiangning Xie, PhD Student, "Representations and Encoding Methods for Deep Neural Network Architectures"
-* Shengjia Chen, PhD Student
-* Zeqiong Lv, PhD Student
-* Peng Zeng, Master Student
-* Xiao Chen, Master Student
-* Zixuan Liang, Master Student
-* Yuwei Ou, Master Student
+* Xiangning Xie, PhD Student, "Performance predictor for neural architecture search"
+* Zeqiong Lv, PhD Student, "Theoretic analysis of evolutionary neural architecture search algorithms"
+* Peng Zeng, Master Student, "Efficient genetic programming towards large-scale symbolic regression"
+* Xiao Yang, Master Student, "Zero-cost neural architecture search"
+* Zixuan Liang, Master Student, "Automating design of deep neural architectures without search"
+* Yuwei Ou, Master Student, "Robust neural architecture search"
 
 ### Top-notch class student:
 * [Zilin Xiao](https://zilin.me/) (@Chinese University of Hong Kong for MPhil from 2022)
