@@ -7,7 +7,7 @@ author_profile: true
 *indicating the corresponding author
 ## Authored Books
 
-1. **Yanan Sun**, Gary G. Yen, Mengjie Zhang, "[Evolutionary Deep Neural Architecture Search: Fundamentals, Methods, and Recent Advances](https://link.springer.com/book/10.1007/978-3-031-16868-0)" <i>Springer</i>, Hardcover ISBN: 978-3-031-16867-3, Published: 09 November 2022. DOI:[https://doi.org/10.1007/978-3-031-16868-0](https://doi.org/10.1007/978-3-031-16868-0) (XVI + 331 pages, the first book on evolutionary neural architecture search)[Amazon online shop](https://www.amazon.com/Evolutionary-Deep-Neural-Architecture-Search/dp/3031168674)
+1. **Yanan Sun**, Gary G. Yen, Mengjie Zhang, "[Evolutionary Deep Neural Architecture Search: Fundamentals, Methods, and Recent Advances](https://link.springer.com/book/10.1007/978-3-031-16868-0)" <i>Springer</i>, Hardcover ISBN: 978-3-031-16867-3, Published: 09 November 2022. DOI:[https://doi.org/10.1007/978-3-031-16868-0](https://doi.org/10.1007/978-3-031-16868-0) (XVI + 331 pages, the first book on evolutionary neural architecture search)  [Amazon online shop](https://www.amazon.com/Evolutionary-Deep-Neural-Architecture-Search/dp/3031168674)
 
 ## Journal Papers
 
