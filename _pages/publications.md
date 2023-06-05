@@ -11,7 +11,7 @@ author_profile: true
 
 ## Journal Papers
 
-1. Junhao Huang, Bing Xue, **Yanan Sun***, Mengjie Zhang, Gary Yen, "Split-level evolutionary neural architecture search with elite weight inheritance," <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2023, DOI:10.1109/TNNLS.2023.3269816.
+1. Junhao Huang, Bing Xue, **Yanan Sun***, Mengjie Zhang, Gary Yen, "Split-level evolutionary neural architecture search with elite weight inheritance," <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2023, DOI:10.1109/TNNLS.2023.3269816. [[http]](https://ieeexplore.ieee.org/document/10132401)  [source code](https://github.com/HuangJunh/SLE-NAS)
 2. Xiangning Xie, **Yanan Sun***, Yuqiao Liu, Mengjie Zhang, Kay Chen Tan, "Architecture augmentation for performance predictor via graph isomorphism," <i>IEEE Transactions on Cybernetics</i>, 2023, DOI:10.1109/TCYB.2023.3267109. [[http]](https://ieeexplore.ieee.org/document/10109990) [Source code](https://github.com/Zhi-Han/GIAUG)
 3. Zhanao Huang, Yongsheng Sang, **Yanan Sun**, Jiancheng Lv, "Neural network with a preference sampling paradigm for imbalanced data classification," <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2022, DOI:10.1109/TNNLS.2022.3231917. [[http]](https://ieeexplore.ieee.org/document/10015661)
 4. Junhao Huang, Bing Xue, **Yanan Sun***, Mengjie Zhang, Gary Yen, "Particle swarm optimization for compact neural architecture search for image classification," <i>IEEE Transactions on Evolutionary Computation</i>, 2022, DOI:10.1109/TEVC.2022.3217290. [[http]](https://ieeexplore.ieee.org/document/9930866) [Source code](https://github.com/HuangJunh/EPCNAS)
