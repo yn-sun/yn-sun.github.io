@@ -12,7 +12,7 @@ redirect_from:
 * Department of Artificial Intelligence\\
 College of Computer Science \\
 Sichuan University, China
-* Basic Building B 422B\\
+* Basic Building 414\\
 Wangjiang Campus, Sichuan University\\
 No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
