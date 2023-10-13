@@ -18,6 +18,7 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
+* One of our work focusing on <span style="color: #FF0000">theory of ENAS</span> is accepted by TEVC.
 * One of our work focusing on <span style="color: #FF0000">Performance Predictor for NAS</span> is accepted by TCYB.
 * Yanan Sun is invited to be Associate Editor of IEEE Transactions on Evolutionary Computation from 2023.
 * One of our work focusing on <span style="color: #FF0000">Performance Predictor for NAS</span> is accepted by NeurIPS2022.
