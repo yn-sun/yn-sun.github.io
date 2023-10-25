@@ -11,7 +11,7 @@ author_profile: true
 
 ## Journal Papers
 
-1.Zeqiong Lv, Chao Qian, **Yanan Sun***, "Benchmarking analysis of evolutionary neural architecture search," <i>IEEE Transactions on Evolutionary Computation</i>, 2023, 10.1109/TEVC.2023.3324852. 
+1. Zeqiong Lv, Chao Qian, **Yanan Sun***, "Benchmarking analysis of evolutionary neural architecture search," <i>IEEE Transactions on Evolutionary Computation</i>, 2023, 10.1109/TEVC.2023.3324852. 
 2. Rui Zhang, **Yanan Sun***, Mengjie Zhang, "GPU based genetic programming for faster feature extraction in binary image classification," <i>IEEE Transactions on Evolutionary Computation</i>, 2023, DOI:10.1109/TEVC.2023.3294639. [[http]](https://ieeexplore.ieee.org/document/10180049)   [source code](https://github.com/RayZhhh/CupaGP)
 3. Shuchao Deng, Zeqiong Lv, Edgar Galván, **Yanan Sun***, "Evolutionary neural architecture search for facial expression recognition," <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, 2023, DOI:10.1109/TETCI.2023.3289974. [[http]](https://ieeexplore.ieee.org/document/10177272)   [source code](https://github.com/Xiaojiuwo168/ENAS-FERNet)
 4. Junhao Huang, Bing Xue, **Yanan Sun***, Mengjie Zhang, Gary Yen, "Split-level evolutionary neural architecture search with elite weight inheritance," <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2023, DOI:10.1109/TNNLS.2023.3269816. [[http]](https://ieeexplore.ieee.org/document/10132401)  [source code](https://github.com/HuangJunh/SLE-NAS)
