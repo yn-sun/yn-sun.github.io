@@ -7,7 +7,8 @@ author_profile: true
 
 ## Academic Activity
 
-* Associate Editor of [IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation) (IF:16.497, JCR Q1)
+* Associate Editor of [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
+* Associate Editor of [IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation) 
 * Program Chair of [2021 5th International Conference on Computer Science and Artificial Intelligence](http://csai.org/index.html)
 * Editorial Memeber of [Memetic Computing](https://www.springer.com/journal/12293) (IF:3.577, JCR Q1)
 * Chair of IEEE Symposium 2022 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA2022)
