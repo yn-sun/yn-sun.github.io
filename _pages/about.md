@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* Research Professor (This is the same level as a full professor but is without teaching duty)
+* Professor
 * Department of Artificial Intelligence\\
 College of Computer Science \\
 Sichuan University, China
