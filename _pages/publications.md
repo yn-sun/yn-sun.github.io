@@ -13,7 +13,6 @@ author_profile: true
 1. Zeqiong Lv, Xiaotian Song, Yuqi Feng, Yuwei Ou, **Yanan Sun***, Mengjie Zhang. "Evolutionary Neural Network Architecture Search". <i>In Handbook of Evolutionary Machine Learning</i>, pp. 247-281, 2023. Singapore: Springer Nature Singapore. [[http]](https://link.springer.com/content/pdf/10.1007/978-981-99-3814-8.pdf#page=255)
 
 ## Journal Papers
-
 1. Hanyuan Huang, Tao Li, Beibei Li, Wenhao Wang, **Yanan Sun**, "A bidirectional differential evolution based unknown cyberattack detection system," <i>IEEE Transactions on Evolutionary Computation</i>, 2024, DOI:10.1109/TEVC.2024.3365101.  [[http]](https://ieeexplore.ieee.org/document/10433856) 
 2. Zeqiong Lv, Chao Qian, **Yanan Sun***, "Benchmarking analysis of evolutionary neural architecture search," <i>IEEE Transactions on Evolutionary Computation</i>, 2023, DOI:10.1109/TEVC.2023.3324852.  [[http]](https://ieeexplore.ieee.org/document/10286149) 
 3. Rui Zhang, **Yanan Sun***, Mengjie Zhang, "GPU based genetic programming for faster feature extraction in binary image classification," <i>IEEE Transactions on Evolutionary Computation</i>, 2023, DOI:10.1109/TEVC.2023.3294639. [[http]](https://ieeexplore.ieee.org/document/10180049)   [source code](https://github.com/RayZhhh/CupaGP)
