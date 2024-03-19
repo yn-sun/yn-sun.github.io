@@ -6,6 +6,17 @@ author_profile: true
 ---
 
 # @ Sichuan University
+## 2023
+### Graduate Students
+* Aojun Lu, PhD Student, "Neural architecture search for incremental learning"
+* Jingrong Xie, PhD Student, "Performance predictor"
+* Jian Zhang, PhD Student, TBD
+* Han Ji, Master Student, "Performance predictor"
+* Wei Li, Master Student, TBD
+* Long Chen, Master Student, "Neural architecture search for small object detection"
+* Junchao Ke, Master Student, TBD
+* Lu Zhou, Master Student, TBD
+
 ## 2022
 ### Graduate Students
 * Yuqi Feng, PhD Student, "Robustness neural architecture search"
