@@ -18,6 +18,7 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
+* Two papers about <span style="color: #FF0000">theory of ENAS</span> are accepted by GECCO2024 and TETCI.
 * One paper about <span style="color: #FF0000">robust NAS</span> is accepted by CVPR2024.
 * Yanan Sun is invited to be Associate Editor of IEEE Transactions on Neural Networks and Learning Systems.
 * One of our work focusing on <span style="color: #FF0000">theory of ENAS</span> is accepted by TEVC.
