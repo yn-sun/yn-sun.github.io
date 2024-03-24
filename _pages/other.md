@@ -5,6 +5,9 @@ permalink: /usefullinks/
 author_profile: true
 ---
 
+* [Special Session on Evolutionary Deep Learning and Applications in CEC24](https://yn-sun.github.io/cec24.html)
+* [Special Issue on Evolutionary Neural Architecture Search for TEVC]([https://yn-sun.github.io/cec23.html](https://cis.ieee.org/images/files/Documents/call-for-papers/tevc/cfp-ENAS-final-2023.pdf))
+* [Special Session on Evolutionary Deep Learning and Applications in CEC23](https://yn-sun.github.io/cec23.html)
 * [IEEE Symposium 2021 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA2021)](https://attend.ieee.org/ssci-2021/ieee-symposium-on-evolutionary-neural-architecture-search-and-applications-ieee-enasa/)
 * [Special Issue on Evolutionary Neural Architecture Search and Applications for CIM](https://yn-sun.github.io/si_enasa.html)
 * [Special Session on Evolutionary Deep Learning and Applications in CEC21](https://yn-sun.github.io/cec21.html)
