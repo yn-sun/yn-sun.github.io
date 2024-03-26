@@ -12,7 +12,7 @@ author_profile: true
 
 ## Journal Papers
 1. Yuqi Feng, Zeqiong lv, Hongyang Chen, Shangce Gao, Fengping An, **Yanan Sun***, "LRNAS: Differentiable searching for adversarially robust lightweight neural architecture", <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2024, Accept.
-2. Shuchao Deng, Xiaotian Song, Minxiao Zhong, Qing Li, **Yanan Sun***, Jiancheng lV, "A dynamic balanced physics-informed neural network for solving partial differential equations," <i>SCIENCE CHINA Information Sciences</i>, 2024, Accept. (In Chinese)
+2. Shuchao Deng, Xiaotian Song, Minxiao Zhong, Qing Li, **Yanan Sun***, Jiancheng lV, "A dynamic balanced physics-informed neural network for solving partial differential equations," <i>SCIENCE CHINA Information Sciences</i>, 2024, Accept. (In Chinese) [source code](https://github.com/Xiaojiuwo168/DBPINN/)
 3. Yu Zhang, Pengxing Cai, **Yanan Sun**, Zhiming Zhang, Zhenyu Lei, Shangce Gao, "A lightweight multi-dendritic pyramidal neuron model with neural plasticity on image recognition," <i>IEEE Transactions on Artificial Intelligence</i>, 2024, DOI:10.1109/TAI.2024.3379968.
 4. Zeqiong Lv, Chao Qian, Gary Yen, **Yanan Sun***, "Analyzing the expected hitting time of evolutionary computation-based neural architecture search algorithms," <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, 2024, DOI:10.1109/TETCI.2024.3377683.
 5. Yun Liu, Fangfang Zhang, **Yanan Sun***, Mengjie Zhang, "Evolutionary trainer-based deep Q-network for dynamic flexible job shop scheduling," <i>IEEE Transactions on Evolutionary Computation</i>, 2024, DOI:10.1109/TEVC.2024.3367181. [[http]](https://ieeexplore.ieee.org/document/10439992)
