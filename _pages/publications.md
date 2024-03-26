@@ -11,7 +11,7 @@ author_profile: true
 2. Zeqiong Lv, Xiaotian Song, Yuqi Feng, Yuwei Ou, **Yanan Sun***, Mengjie Zhang. "Evolutionary Neural Network Architecture Search". <i>In Handbook of Evolutionary Machine Learning</i>, pp. 247-281, 2023. Singapore: Springer Nature Singapore. [[http]](https://link.springer.com/content/pdf/10.1007/978-981-99-3814-8.pdf#page=255)
 
 ## Journal Papers
-1. Yuqi Feng, Zeqiong lv, Hongyang Chen, Shangce Gao, Fengping An, **Yanan Sun***, "LRNAS: Differentiable searching for adversarially robust lightweight neural architecture", <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2024, Accept.
+1. Yuqi Feng, Zeqiong lv, Hongyang Chen, Shangce Gao, Fengping An, **Yanan Sun***, "LRNAS: Differentiable searching for adversarially robust lightweight neural architecture", <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2024, Accept. [source code](https://github.com/fyqsama/LRNAS)
 2. Shuchao Deng, Xiaotian Song, Minxiao Zhong, Qing Li, **Yanan Sun***, Jiancheng lV, "A dynamic balanced physics-informed neural network for solving partial differential equations," <i>SCIENCE CHINA Information Sciences</i>, 2024, Accept. (In Chinese) [source code](https://github.com/Xiaojiuwo168/DBPINN/)
 3. Yu Zhang, Pengxing Cai, **Yanan Sun**, Zhiming Zhang, Zhenyu Lei, Shangce Gao, "A lightweight multi-dendritic pyramidal neuron model with neural plasticity on image recognition," <i>IEEE Transactions on Artificial Intelligence</i>, 2024, DOI:10.1109/TAI.2024.3379968.
 4. Zeqiong Lv, Chao Qian, Gary Yen, **Yanan Sun***, "Analyzing the expected hitting time of evolutionary computation-based neural architecture search algorithms," <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, 2024, DOI:10.1109/TETCI.2024.3377683.
@@ -55,7 +55,7 @@ author_profile: true
 
 ## Conference Papers
 1. Zeqiong Lv, Chao Bian, Chao Qian, **Yanan Sun***, "Runtime analysis of population-based evolutionary neural architecture search for a binary classification problem," <i>The Genetic and Evolutionary Computation Conference 2024 (GECCO2024)</i>,  July 14-18, 2024, Melbourne, Australia.
-2. Yuwei Ou, Yuqi Feng, **Yanan Sun***, "Towards accurate and robust architectures via neural architecture search," <i>The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024 (CVPR2024)</i>,  June 17-21, 2024, Seattle, USA.
+2. Yuwei Ou, Yuqi Feng, **Yanan Sun***, "Towards accurate and robust architectures via neural architecture search," <i>The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024 (CVPR2024)</i>,  June 17-21, 2024, Seattle, USA. [source code](https://github.com/fyqsama/ARNAS)
 3. Yuqi Feng, Jian Zhang, **Yanan Sun***, "Robust neural architecture search under long-tailed distribution," <i>International Joint Conference on Neural Networks 2024 (IJCNN2024)</i>,  June 30-July 5, 2024, Yokohama, Japan.
 4. Xiao Yang, Yun Liu, Jiyuan Liu, **Yanan Sun***, "HZS-NAS: Neural architecture search with hybrid zero-shot proxy for facial expression recognition," <i>International Joint Conference on Neural Networks 2024 (IJCNN2024)</i>,  June 30-July 5, 2024, Yokohama, Japan.
 5. Jingrong Xie, Yuqi Feng, **Yanan Sun***, "A sampling method for performance predictor based on contrastive learning," <i>AI 2023: Advances in Artificial Intelligence,</i> pp, 215–226, Brisbane, Australia, 28th November-1st December, 2023.  [[http]](https://link.springer.com/chapter/10.1007/978-981-99-8388-9_18)  <span style="color: #FF0000">Spotlight Paper</span>
