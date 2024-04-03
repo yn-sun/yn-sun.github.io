@@ -18,6 +18,7 @@ author_profile: true
 * Chair of [IEEE Symposium 2021 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA2021)](https://attend.ieee.org/ssci-2021/ieee-symposium-on-evolutionary-neural-architecture-search-and-applications-ieee-enasa/) 
 * Chair of [Special Session on Evolutionary Deep Learning and Applications in CEC20](https://yn-sun.github.io/cec20.html)
 * Guest Editor: [Special issue of Evolutionary Neural Architecture Search and Applications, IEEE Computational Intelligence Magazine, 2020](https://ieeexplore.ieee.org/document/9491857)
+* Guest Editor: [Special Issue of Evolutionary Neural Architecture Search, IEEE Transactions on Evolutionary Computation, 2023](https://cis.ieee.org/images/files/Documents/call-for-papers/tevc/cfp-ENAS-final-2023.pdf)
 * Chair of [Special Session on Evolutionary Deep Learning and Applications in CEC19](https://yn-sun.github.io/cec19.html)
 * Program Chair of [2021 5th International Conference on Computer Science and Artificial Intelligence](http://csai.org/index.html)
 * Senior Program Committee of IJCAI2021
