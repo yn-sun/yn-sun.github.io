@@ -11,11 +11,14 @@ author_profile: true
 * Associate Editor of [IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation)
 * Editorial Memeber of [Memetic Computing](https://www.springer.com/journal/12293)
 * Chair of [Special Session on Evolutionary Deep Learning and Applications in CEC24](https://yn-sun.github.io/cec24.html)
-* 
 * Chair of [IEEE Symposium 2023 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA2023)](https://attend.ieee.org/ssci-2023/ieee-symposium-on-evolutionary-neural-architecture-search-and-applications-ieee-enasa/)
+* Chair of [Special Session on Evolutionary Deep Learning and Applications in CEC23](https://yn-sun.github.io/cec23.html)
 * Chair of [IEEE Symposium 2022 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA2022)](https://ieeessci2022.org/symposia_enasa.html)
+* Chair of [Special Session on Evolutionary Deep Learning and Applications in CEC21](https://yn-sun.github.io/cec21.html)
 * Chair of [IEEE Symposium 2021 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA2021)](https://attend.ieee.org/ssci-2021/ieee-symposium-on-evolutionary-neural-architecture-search-and-applications-ieee-enasa/) 
+* Chair of [Special Session on Evolutionary Deep Learning and Applications in CEC20](https://yn-sun.github.io/cec20.html)
 * Guest Editor: [Special issue of Evolutionary Neural Architecture Search and Applications, IEEE Computational Intelligence Magazine, 2020](https://ieeexplore.ieee.org/document/9491857)
+* Chair of [Special Session on Evolutionary Deep Learning and Applications in CEC19](https://yn-sun.github.io/cec19.html)
 * Program Chair of [2021 5th International Conference on Computer Science and Artificial Intelligence](http://csai.org/index.html)
 * Senior Program Committee of IJCAI2021
 * Chair of [IEEE Symposium 2020 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA2020)](http://www.ieeessci2020.org/symposiums/enasa.html)
