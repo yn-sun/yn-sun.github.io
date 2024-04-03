@@ -11,9 +11,9 @@ author_profile: true
 * Associate Editor of [IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation)
 * Editorial Memeber of [Memetic Computing](https://www.springer.com/journal/12293)
 * Program Chair of [2021 5th International Conference on Computer Science and Artificial Intelligence](http://csai.org/index.html)
-* Chair of IEEE Symposium 2022 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA2022)
+* Chair of [IEEE Symposium 2022 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA2022)](https://ieeessci2022.org/symposia_enasa.html)
 * Chair of [IEEE Symposium 2021 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA2021)](https://attend.ieee.org/ssci-2021/ieee-symposium-on-evolutionary-neural-architecture-search-and-applications-ieee-enasa/) 
-* Guest Editor:special issue of Evolutionary Neural Architecture Search and Applications, IEEE Computational Intelligence Magazine, 2020
+* Guest Editor: [Special issue of Evolutionary Neural Architecture Search and Applications, IEEE Computational Intelligence Magazine, 2020](https://ieeexplore.ieee.org/document/9491857)
 * Senior Program Committee of IJCAI2021
 * Chair of IEEE Symposium 2020 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA2020)
 * Founding Chair of the IEEE CIS Task-force on “Evolutionary Deep Learning and Applications”
