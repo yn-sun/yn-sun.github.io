@@ -18,18 +18,19 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
-* One paper about <span style="color: #FF0000">robust NAS</span> is accepted by TNNLS.
-* Two papers about <span style="color: #FF0000">theory of ENAS</span> are accepted by GECCO2024 and TETCI.
-* One paper about <span style="color: #FF0000">robust NAS</span> is accepted by CVPR2024.
+* Our work about <span style="color: #FF0000">imbalanced data learning</span> is appected by TKDE.
+* Our work about <span style="color: #FF0000">robust NAS</span> is accepted by TNNLS.
+* Two of our work about <span style="color: #FF0000">theory of ENAS</span> are accepted by GECCO2024 and TETCI.
+* Our work about <span style="color: #FF0000">robust NAS</span> is accepted by CVPR2024.
 * Yanan Sun is invited to be Associate Editor of IEEE Transactions on Neural Networks and Learning Systems.
-* One of our work focusing on <span style="color: #FF0000">theory of ENAS</span> is accepted by TEVC.
-* One of our work focusing on <span style="color: #FF0000">Performance Predictor for NAS</span> is accepted by TCYB.
+* Our work about <span style="color: #FF0000">theory of ENAS</span> is accepted by TEVC.
+* Our work about <span style="color: #FF0000">Performance Predictor for NAS</span> is accepted by TCYB.
 * Yanan Sun is invited to be Associate Editor of IEEE Transactions on Evolutionary Computation from 2023.
-* One of our work focusing on <span style="color: #FF0000">Performance Predictor for NAS</span> is accepted by NeurIPS2022.
-* One of our work focusing on <span style="color: #FF0000">Evolving Transformer</span> is awarded as Best Paper by MLMI2022.
-* One of our work focusing on <span style="color: #FF0000">Benchmark Platform of ENAS</span> is accepted by TEVC.
-* One of our work focusing on <span style="color: #FF0000">Constraint NAS</span> is accepted by TNNLS.
-* One of our work focusing on <span style="color: #FF0000">improving efficiency of NAS</span> is accepted by ICCV21.
+* Our work about <span style="color: #FF0000">Performance Predictor for NAS</span> is accepted by NeurIPS2022.
+* Our work about <span style="color: #FF0000">Evolving Transformer</span> is awarded as Best Paper by MLMI2022.
+* Our work about <span style="color: #FF0000">Benchmark Platform of ENAS</span> is accepted by TEVC.
+* Our work about <span style="color: #FF0000">Constraint NAS</span> is accepted by TNNLS.
+* Our work about <span style="color: #FF0000">improving efficiency of NAS</span> is accepted by ICCV21.
 
 Research Interest
 ======
