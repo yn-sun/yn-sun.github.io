@@ -18,7 +18,8 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
-* Our work about <span style="color: #FF0000">Adversarial Example Generation</span> is appected by [FSE2024](https://conf.researchr.org/home/fse-2024).
+* Three of our work about <span style="color: #FF0000">NAS</span> are accepted by IJCAI2024.
+* Our work about <span style="color: #FF0000">adversarial example generation</span> is appected by [FSE2024](https://conf.researchr.org/home/fse-2024).
 * Our work about <span style="color: #FF0000">imbalanced data learning</span> is appected by TKDE.
 * Our work about <span style="color: #FF0000">robust NAS</span> is accepted by TNNLS.
 * Two of our work about <span style="color: #FF0000">theory of ENAS</span> are accepted by GECCO2024 and TETCI.
