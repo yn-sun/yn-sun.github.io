@@ -26,6 +26,7 @@ News
 * Our work about <span style="color: #FF0000">robust NAS</span> is accepted by CVPR2024.
 * Yanan Sun is invited to be Associate Editor of IEEE Transactions on Neural Networks and Learning Systems.
 * Our work about <span style="color: #FF0000">theory of ENAS</span> is accepted by TEVC.
+* We won the first and second place on Neural Architecture Search Challenge held on CVPR23. [Media] [[1]](https://www.scu.edu.cn/info/1207/26284.htm)  [[2]](https://mp.weixin.qq.com/s/2ftmuADyF11k-rotBcGkJw)     
 * Our work about <span style="color: #FF0000">Performance Predictor for NAS</span> is accepted by TCYB.
 * Yanan Sun is invited to be Associate Editor of IEEE Transactions on Evolutionary Computation from 2023.
 * Our work about <span style="color: #FF0000">Performance Predictor for NAS</span> is accepted by NeurIPS2022.
