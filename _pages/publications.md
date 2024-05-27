@@ -55,7 +55,7 @@ author_profile: true
 
 
 ## Conference Papers
-1. Lin Lu, Chenxi Dai, Wangcheng Tao, Binhang Yuan, **Yanan Sun**, Pan Zhou, "Exploring the robustness of pipeline-parallelism-based decentralized training," The Forty-first International Conference on Machine Learning (ICML2024), July 21-27, 2024, Vienna, Austria.
+1. Lin Lu, Chenxi Dai, Wangcheng Tao, Binhang Yuan, **Yanan Sun**, Pan Zhou, "Exploring the robustness of pipeline-parallelism-based decentralized training," The Forty-first International Conference on Machine Learning (ICML2024), July 21-27, 2024, Vienna, Austria. [source code](https://github.com/dcx001016/pipeline_attack)
 2. Han Ji, Yuqi Feng, **Yanan Sun***, "CAP: A context-aware neural predictor for NAS," The 33rd International Joint Conference on Artificial Intelligence (IJCAI2024), August 3-8, 2024, Jeju, South Korea.
 3. Aojun Lu, Tao Feng, Hangjie Yuan, Xiaotian Song, **Yanan Sun***, "Revisiting neural networks for continual learning: an architectural perspective," The 33rd International Joint Conference on Artificial Intelligence (IJCAI2024), August 3-8, 2024, Jeju, South Korea. [source code](https://github.com/byyx666/ArchCraft)
 4. Xiaotian Song, Andy Song, Rong Xiao, **Yanan Sun***, "One-step spiking transformer with a linear complexity," The 33rd International Joint Conference on Artificial Intelligence (IJCAI2024), August 3-8, 2024, Jeju, South Korea.[source code](https://github.com/songxt3/OST)
