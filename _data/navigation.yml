@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Publications (books&journals)"
+  - title: "Journal Publications"
     url: /publications/
     
-  - title: "Publications (conferences)"
+  - title: "Conference Publications"
     url: /publications-c/
 
   #- title: "Grants&Awards"
