@@ -55,7 +55,7 @@ author_profile: true
 
 
 ## Conference Papers
-1. Xiaotian Song, Peng Zeng, **Yanan Sun***, Andy Song, "Generalizable symbolic optimizer learning," The 18th European Conference on Computer Vision (ECCV2024), September 29-October 4, 2024, MiCo Milano, Italy.
+1. Xiaotian Song, Peng Zeng, **Yanan Sun***, Andy Song, "Generalizable symbolic optimizer learning," The 18th European Conference on Computer Vision (ECCV2024), September 29-October 4, 2024, MiCo Milano, Italy. [source code](https://github.com/songxt3/SOL)
 2. Xiaotian Song, Shuchao Deng, Jiahao Fan, **Yanan Sun***, "Physics-informed neural networks with generalized residual-based adaptive sampling," 2024 International Conference on Intelligent Computing (ICIC2024), August 5-8, 2024, Tianjin, China.
 3. Minxiao Zhong, Yuqi Feng, Qing Li, **Yanan Sun***, "Precisely Predicting neutronics parameters of nuclear reactor," 2024 International Conference on Intelligent Computing (ICIC2024), August 5-8, 2024, Tianjin, China.
 4. Lin Lu, Chenxi Dai, Wangcheng Tao, Binhang Yuan, **Yanan Sun**, Pan Zhou, "Exploring the robustness of pipeline-parallelism-based decentralized training," The Forty-first International Conference on Machine Learning (ICML2024), July 21-27, 2024, Vienna, Austria. [source code](https://github.com/dcx001016/pipeline_attack)
