@@ -18,7 +18,7 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
-* I gave one-hour talk as part of specilized tutorial on <span style="color: #FF0000">[Evolutionary computation and evolutionary deep learning for image analysis, signal processing and pattern recognition](https://gecco-2024.sigevo.org/Tutorials#id_Evolutionary%20Computation%20and%20Evolutionary%20Deep%20Learning%20for%20Image%20Analysis,%20Signal%20Processing%20and%20Pattern%20Recognition)</span> in GECCO2024.
+* I gave one-hour talk as part of specialized tutorial on <span style="color: #FF0000">[Evolutionary computation and evolutionary deep learning for image analysis, signal processing and pattern recognition](https://gecco-2024.sigevo.org/Tutorials#id_Evolutionary%20Computation%20and%20Evolutionary%20Deep%20Learning%20for%20Image%20Analysis,%20Signal%20Processing%20and%20Pattern%20Recognition)</span> in GECCO2024.
 * Our work about <span style="color: #FF0000">optimizer automation motivated by NAS</span> is accepted by ECCV2024.
 * I gave two-hours tutorial on <span style="color: #FF0000">evolutionary neural architecture search</span> in CEC2024.
 * Our work about <span style="color: #FF0000">robust training of LLM</span> is accepted by ICML2024.
