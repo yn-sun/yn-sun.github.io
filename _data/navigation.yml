@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "Publications<br/>(books&journals)"
+  - title: "Publications (books&journals)"
     url: /publications/
+    
+  - title: "Publications (conferences)"
+    url: /publications-c/
 
   #- title: "Grants&Awards"
   #  url: /grants&awards/
