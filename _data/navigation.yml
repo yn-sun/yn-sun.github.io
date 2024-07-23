@@ -1,6 +1,7 @@
 # main links links
 main:
-  - title: "Publications(books&journals)"
+  - title: "Publications
+  (books&journals)"
     url: /publications/
 
   #- title: "Grants&Awards"
