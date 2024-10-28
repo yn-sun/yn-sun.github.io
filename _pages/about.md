@@ -18,6 +18,7 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
+* <span style="color: #FF0000">Again!</span> We won the first place on Neural Architecture Search Challenge organized by AutoML24. [Media] ([https://www.scu.edu.cn/info/1207/26284.htm](https://www.scu.edu.cn/info/1207/30392.htm)) 
 * I gave one-hour talk as part of specialized tutorial on <span style="color: #FF0000">[Evolutionary computation and evolutionary deep learning for image analysis, signal processing and pattern recognition](https://gecco-2024.sigevo.org/Tutorials#id_Evolutionary%20Computation%20and%20Evolutionary%20Deep%20Learning%20for%20Image%20Analysis,%20Signal%20Processing%20and%20Pattern%20Recognition)</span> in GECCO2024.
 * Our work about <span style="color: #FF0000">optimizer automation motivated by NAS</span> is accepted by ECCV2024.
 * I gave two-hours tutorial on <span style="color: #FF0000">evolutionary neural architecture search</span> in CEC2024.
@@ -30,7 +31,7 @@ News
 * Our work about <span style="color: #FF0000">robust NAS</span> is accepted by CVPR2024.
 * Yanan Sun is invited to be Associate Editor of IEEE Transactions on Neural Networks and Learning Systems.
 * Our work about <span style="color: #FF0000">theory of ENAS</span> is accepted by TEVC.
-* We won the first and second place on Neural Architecture Search Challenge held on CVPR23. [Media] [[1]](https://www.scu.edu.cn/info/1207/26284.htm)  [[2]](https://mp.weixin.qq.com/s/2ftmuADyF11k-rotBcGkJw)     
+* We won the first and second place on Neural Architecture Search Challenge organized by CVPR23. [Media] [[1]](https://www.scu.edu.cn/info/1207/26284.htm)  [[2]](https://mp.weixin.qq.com/s/2ftmuADyF11k-rotBcGkJw)     
 * Our work about <span style="color: #FF0000">Performance Predictor for NAS</span> is accepted by TCYB.
 * Yanan Sun is invited to be Associate Editor of IEEE Transactions on Evolutionary Computation from 2023.
 * Our work about <span style="color: #FF0000">Performance Predictor for NAS</span> is accepted by NeurIPS2022.
