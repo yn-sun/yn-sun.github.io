@@ -18,6 +18,7 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
+* I am invited to be Area Chair of [IEEE CEC2025](https://www.cec2025.org/)
 * Our work about <span style="color: #FF0000">robust NAS</span> is accepted by ICLR25.
 * Our work about <span style="color: #FF0000">Evolutionary SNN</span> is accepted by TEVC. 
 * <span style="color: #FF0000">Again!</span> We won the first place on Neural Architecture Search Challenge organized by AutoML24. [Media] ([https://www.scu.edu.cn/info/1207/26284.htm](https://www.scu.edu.cn/info/1207/30392.htm)) 
