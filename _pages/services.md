@@ -7,9 +7,10 @@ author_profile: true
 
 ## Academic Activity
 
-* Associate Editor of [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
-* Associate Editor of [IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation)
-* Editorial Memeber of [Memetic Computing](https://www.springer.com/journal/12293)
+* Area Chair of [IEEE CEC2025](https://www.cec2025.org/)
+* Associate Editor of [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) since 2024
+* Associate Editor of [IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation) since 2023
+* Editorial Memeber of [Memetic Computing](https://www.springer.com/journal/12293) since 2021
 * Chair of [Special Session on Evolutionary Deep Learning and Applications in CEC24](https://yn-sun.github.io/cec24.html)
 * Chair of [IEEE Symposium 2023 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA2023)](https://attend.ieee.org/ssci-2023/ieee-symposium-on-evolutionary-neural-architecture-search-and-applications-ieee-enasa/)
 * Chair of [Special Session on Evolutionary Deep Learning and Applications in CEC23](https://yn-sun.github.io/cec23.html)
