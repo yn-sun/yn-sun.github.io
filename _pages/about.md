@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* Professor
+* Professor 教授、博导
 * Department of Artificial Intelligence\\
 College of Computer Science \\
 Sichuan University, China
