@@ -32,6 +32,7 @@ News
 * Our work about <span style="color: #FF0000">imbalanced data learning</span> is appected by TKDE.
 * Our work about <span style="color: #FF0000">robust NAS</span> is accepted by TNNLS. Congratulate Yuqi!
 * Two of our work about <span style="color: #FF0000">theory of ENAS</span> are accepted by GECCO2024 and TETCI. Congratulate Zeqiong!
+* Our work about <span style="color: #FF0000">scheduling</span>is accepted by TEVC. Congratulate Yun!
 * Our work about <span style="color: #FF0000">robust NAS</span> is accepted by CVPR2024. Congratulate Yuwei and Yuqi!
 * Yanan Sun is invited to be Associate Editor of IEEE Transactions on Neural Networks and Learning Systems.
 * Our work about <span style="color: #FF0000">theory of ENAS</span> is accepted by TEVC. Congratulate Zeqiong!
