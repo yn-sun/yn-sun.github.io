@@ -18,6 +18,7 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
+* I am invited to be Publication Chair of [PRICAI2025](https://www.pricai.org/2025/)
 * Our work about <span style="color: #FF0000">robust NAS</span> is accepted by TKDE. Congratulate Yuqi!
 * I am invited to be Area Chair of [IEEE CEC2025](https://www.cec2025.org/)
 * Our work about <span style="color: #FF0000">robust NAS</span> is accepted by ICLR25. Congratulate Yuqi!
