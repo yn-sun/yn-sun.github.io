@@ -9,6 +9,7 @@ author_profile: true
 ## Authored Book/Chapter
 1. **Yanan Sun**, Gary G. Yen, Mengjie Zhang, "[Evolutionary Deep Neural Architecture Search: Fundamentals, Methods, and Recent Advances](https://link.springer.com/book/10.1007/978-3-031-16868-0)" <i>Springer</i>, Hardcover ISBN: 978-3-031-16867-3, Published: 09 November 2022. DOI:[https://doi.org/10.1007/978-3-031-16868-0](https://doi.org/10.1007/978-3-031-16868-0) (XVI + 331 pages, the first book on evolutionary neural architecture search)  [Buy from Amazon](https://www.amazon.com/Evolutionary-Deep-Neural-Architecture-Search/dp/3031168674)
 2. Zeqiong Lv, Xiaotian Song, Yuqi Feng, Yuwei Ou, **Yanan Sun***, Mengjie Zhang. "Evolutionary Neural Network Architecture Search". <i>In Handbook of Evolutionary Machine Learning</i>, pp. 247-281, 2023. Singapore: Springer Nature Singapore. [[http]](https://link.springer.com/content/pdf/10.1007/978-981-99-3814-8.pdf#page=255)
+3. 孙亚楠, 吕泽琼, 冯雨麒, 吕建成， 《自动化机器学习》，科学出版社，2025 
 
 ## Journal Papers
 1. Junhao Huang, Bing Xue, **Yanan Sun***, Mengjie Zhang, Gary G. Yen, "Automated design of neural networks with multi-scale convolutions via multi-path weight sampling," <i>Pattern Recognition</i>, 2025, DOI:10.1016/j.patcog.2025.111605 [[http]](https://www.sciencedirect.com/science/article/pii/S0031320325002651) [source code](https://github.com/HuangJunh/EMixConv)
