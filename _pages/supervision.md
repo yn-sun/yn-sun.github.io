@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## 自入职四川大学以来作为导师指导的研究生（成果仅统计第一作者）Last Updated:2025/06/12
+## 自入职四川大学以来作为研究生导师指导的学生（成果仅统计第一作者）Last Updated:2025/06/12
 * 2023直博生, Aojun Lu, [IJCAI+1，ICML+1，NAS全球竞赛第一名+2, 腾讯奖学金+1]
 * 2023非全博, Jian Zhang
 * 2022直博生, Yuqi Feng, [CVPR+1，ICLR+1，TNNLS+1，TKDE+1，"互联网+"国银+1】
@@ -29,8 +29,8 @@ author_profile: true
 * 2020硕士生, Yuqiao Liu, [ICCV+1，NeurIPS+1，TNNLS+1，国家奖学金+1，四川省优秀毕业生】【毕业去向：北京建行总行管培生】
 * 2020硕士生, Jie Wu, [IJCNN+1，MLMI+1 Best Paper，ICA3PP+1】【毕业去向：商汤】
 * 2020硕士生, Siyi Li, [TNNLS+1]【毕业去向：北京国企】
-
-
+## 我还指导过其他一些优秀同学（部分）
+### 在我实验室实习的本科生
 
 <!-- 
 # @ Sichuan University
