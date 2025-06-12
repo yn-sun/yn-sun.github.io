@@ -9,14 +9,15 @@ main:
   #- title: "Grants&Awards"
   #  url: /grants&awards/
 
-  - title: "Teaching"
+  # - title: "Teaching"
     url: /teaching/    
+
+  - title: "Supervision"
+    url: /supervision/
     
   - title: "Services"
     url: /services/
         
-  - title: "Supervision"
-    url: /supervision/
 
   #- title: "Useful Links"
   #  url: /usefullinks/
