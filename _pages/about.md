@@ -9,11 +9,8 @@ redirect_from:
 ---
 
 * Professor 教授、博导
-* Department of Artificial Intelligence\\
-College of Computer Science \\
-Sichuan University, China
-* Basic Building 414\\
-Wangjiang Campus, Sichuan University\\
+* College of Computer Science， Sichuan University, China
+* Basic Building 414, Wangjiang Campus, Sichuan University\\
 No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
