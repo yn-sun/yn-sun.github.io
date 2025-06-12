@@ -29,9 +29,19 @@ author_profile: true
 * 2020硕士生, Yuqiao Liu, [ICCV+1，NeurIPS+1，TNNLS+1，国家奖学金+1，四川省优秀毕业生】【毕业去向：北京建行总行管培生】
 * 2020硕士生, Jie Wu, [IJCNN+1，MLMI+1 Best Paper，ICA3PP+1】【毕业去向：商汤】
 * 2020硕士生, Siyi Li, [TNNLS+1]【毕业去向：北京国企】
-## 我还指导过其他一些优秀同学（部分）
-### 在我实验室实习的本科生
-
+## 我还指导过其他一些优秀同学（部分代表）
+### 在我课题组实习过的本科生及获得的成果
+* Zilin Xiao [IJCNN+1，本科毕业后去美国攻读博士]
+* Zirao Ren [与我合作一篇TAI论文，本科毕业后去北航读研]
+* Wenxin Zhao [SSCI+1，本科毕业后去复旦直博]
+* Rui Zhang [PRICAI+1，TEVC+1，现在香港城市大学读研]
+### 指导过的优秀本科毕业设计
+* Shuchao Deng [四川大学本科毕业设计一等奖]
+* Wenxin Zhao [四川大学本科毕业设计三等奖]
+* Xiangning Xie [四川大学本科毕业设计三等奖]
+* Zilin Xiao [四川大学本科毕业设计二等奖]
+* Rui Zhang [四川大学本科毕业设计二等奖]
+* Yuqiao Liu [四川大学本科毕业设计三等奖]
 <!-- 
 # @ Sichuan University
 ## 2023
