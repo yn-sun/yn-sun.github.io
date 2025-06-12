@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-#自入职四川大学作为导师指导的学生（成果仅统计第一作者）Last Updated: 2025/06/12
+## Academic Activity
 
 * 2023直博生, Aojun Lu, [IJCAI+1，ICML+1，NAS全球竞赛第一名+2, 腾讯奖学金+1]
 * 2023非全博, Jian Zhang
@@ -14,23 +14,19 @@ author_profile: true
 * 2022博士生, Yun Liu, [TEVC+1]
 * 2022连培博, Minxiao Zhong [ICIC+1，IJCNN+1]
 * 2021博士生, Zeqiong Lv [TEVC+1，GECCO+1，TETCI+1，ICML+1]【毕业去向：南京大学】
-
 * 2023硕士生, Jingrong Xie, [ICML+1, IJCNN+1]
 * 2023硕士生, Han Ji, [IJCAI+1，国家奖学金+1]
 * 2023硕士生, Long Chen
 * 2023硕士生, Junchao Ke
 * 2023非全硕, Lu Zhou
-
 * 2022硕士生, Xiaotian Song, [TEVC+1，TAI+1，ECCV+1，IJCAI+1，国家奖学金+1，英特尔奖学金+1】【毕业去向：硕博连读】
 * 2022硕士生, Shuchao Deng, [中国科学+1，TETCI+1, GECCO+1]【毕业去向：创业】
 * 2022非全硕, Chengzhe Feng, [ICIC+1]【毕业去向：钉钉】
-
 * 2021硕士生, Xiangning Xie, [TEVC+1，TCYB+1，四川大学优秀硕士论文]【毕业去向：阿里】
 * 2021硕士生, Peng Zeng，[GECCO+1]【毕业去向：云南省选调生】
 * 2021硕士生, Xiao Yang, 退役大学生士兵计划,[IJCNN+1，"互联网+"省金+1]【毕业去向：江苏国企】
 * 2021硕士生, Zixuan Liang, [ACML+1]【毕业去向：腾讯】
 * 2021硕士生, Yuwei Ou, [CVPR+1]【毕业去向：海康威视】
-
 * 2020硕士生, Yuqiao Liu, [ICCV+1，NeurIPS+1，TNNLS+1，国家奖学金+1，四川省优秀毕业生】【毕业去向：北京建行总行管培生】
 * 2020硕士生, Jie Wu, [IJCNN+1，MLMI+1 Best Paper，ICA3PP+1】【毕业去向：商汤】
 * 2020硕士生, Siyi Li, [TNNLS+1]【毕业去向：北京国企】
