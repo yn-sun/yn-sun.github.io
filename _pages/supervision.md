@@ -42,6 +42,7 @@ author_profile: true
 * Zilin Xiao [四川大学本科毕业设计二等奖]
 * Rui Zhang [四川大学本科毕业设计二等奖]
 * Yuqiao Liu [四川大学本科毕业设计三等奖]
+  
 <!-- 
 # @ Sichuan University
 ## 2023
