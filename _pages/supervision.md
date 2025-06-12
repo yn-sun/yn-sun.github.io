@@ -5,6 +5,7 @@ permalink: /supervision/
 author_profile: true
 ---
 
+<!-- 
 # @ Sichuan University
 ## 2023
 ### Graduate Students
@@ -75,3 +76,4 @@ author_profile: true
 
 ## 2017
 * Summer Scholar: Bin Wang (co-supervised with Bing Xue, Mengjie Zhang), “Evolving deep convolutional neural networks by variable-length particle swarm optimization for image classification”, in this research, Bin has been produced one paper that has been accepted by [CEC2018](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8477735).
+-->
