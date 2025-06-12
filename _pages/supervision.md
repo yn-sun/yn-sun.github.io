@@ -18,7 +18,7 @@ author_profile: true
 * 2023硕士生, Long Chen
 * 2023连培硕, Junchao Ke
 * 2023非全硕, Lu Zhou
-* 2022硕士生, Xiaotian Song, [TEVC+1，TAI+1，ECCV+1，IJCAI+1，国家奖学金+1，英特尔奖学金+1】【毕业去向：硕博连读】
+* 2022硕士生, Xiaotian Song, [TEVC+1，TAI+1，ECCV+1，IJCAI+1，ICIC+1，国家奖学金+1，英特尔奖学金+1】【毕业去向：硕博连读】
 * 2022硕士生, Shuchao Deng, [中国科学+1，TETCI+1, GECCO+1]【毕业去向：创业】
 * 2022非全硕, Chengzhe Feng, [ICIC+1]【毕业去向：钉钉】
 * 2021硕士生, Xiangning Xie, [TEVC+1，TCYB+1，四川大学优秀硕士论文]【毕业去向：阿里】
