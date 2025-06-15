@@ -10,7 +10,7 @@ main:
   #  url: /grants&awards/
 
   # - title: "Teaching"
-    url: /teaching/    
+  #  url: /teaching/    
 
   - title: "Supervision"
     url: /supervision/
