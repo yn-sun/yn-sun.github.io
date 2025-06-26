@@ -15,6 +15,7 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
+* Two papers about <span style="color: #FF0000">performance predictor for NAS</span> is accepted by ICCV25. Congratulate Han!
 * Our paper about <span style="color: #FF0000">Exploring GPT-4 for clinical decision-making</span> is accepted by Front. Public Health. Congratulate Yutao!
 * Three papers are accepted by ICML25, Congratulate to Aojun (<span style="color: #FF0000">continous learning from neural architecture perspective</span>), Jingrong (<span style="color: #FF0000">neural architecture design</span>), and Zeqiong (<span style="color: #FF0000">theory of ENAS</span>)!
 * I am invited to be Publication Chair of [PRICAI2025](https://www.pricai.org/2025/)
