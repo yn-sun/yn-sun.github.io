@@ -21,17 +21,17 @@ author_profile: true
 * 2023非全硕, Lu Zhou
 
 ### 已毕业
-* 2022硕士生, Xiaotian Song, 毕业去向：硕博连读, 在校成果：TEVC+1, TAI+1, ECCV+1, IJCAI+1, ICIC+1, 国家奖学金+1, 英特尔奖学金+1
-* 2022硕士生, Shuchao Deng, 毕业去向：创业,  在校成果：中国科学+1, TETCI+1, GECCO+1
-* 2022硕士生, Chengzhe Feng, 毕业去向：钉钉, 在校成果：ICIC+1
-* 2021硕士生, Xiangning Xie, 毕业去向：阿里, 在校成果：TEVC+1，TCYB+1，四川大学优秀硕士论文
-* 2021硕士生, Peng Zeng, 毕业去向：云南省选调, 在校成果：GECCO+1
-* 2021硕士生, Xiao Yang (退役大学生士兵计划入校）, 毕业去向：江苏国企, 在校成果：IJCNN+1，"互联网+"省金+1
-* 2021硕士生, Zixuan Liang, 毕业去向：腾讯, 在校成果：ACML+1
-* 2021硕士生, Yuwei Ou, 毕业去向：海康威视, 在校成果：CVPR+1
-* 2020硕士生, Yuqiao Liu, 毕业去向：建行总行管培生, 在校成果：ICCV+1，NeurIPS+1，TNNLS+1，国家奖学金+1，四川省优秀毕业生
-* 2020硕士生, Jie Wu, 毕业去向：商汤研究院, 在校成果：IJCNN+1，MLMI+1 Best Paper，ICA3PP+1
-* 2020硕士生, Siyi Li, 毕业去向：北京国企，在校成果：TNNLS+1
+* 2022级硕士生, Xiaotian Song, 毕业去向：硕博连读, 在校成果：TEVC+1, TAI+1, ECCV+1, IJCAI+1, ICIC+1, 国家奖学金+1, 英特尔奖学金+1
+* 2022级硕士生, Shuchao Deng, 毕业去向：创业,  在校成果：中国科学+1, TETCI+1, GECCO+1
+* 2022级硕士生, Chengzhe Feng, 毕业去向：钉钉, 在校成果：ICIC+1
+* 2021级硕士生, Xiangning Xie, 毕业去向：阿里, 在校成果：TEVC+1，TCYB+1，四川大学优秀硕士论文
+* 2021级硕士生, Peng Zeng, 毕业去向：云南省选调, 在校成果：GECCO+1
+* 2021级硕士生, Xiao Yang (退役大学生士兵计划入校）, 毕业去向：江苏国企, 在校成果：IJCNN+1，"互联网+"省金+1
+* 2021级硕士生, Zixuan Liang, 毕业去向：腾讯, 在校成果：ACML+1
+* 2021级硕士生, Yuwei Ou, 毕业去向：海康威视, 在校成果：CVPR+1
+* 2020级硕士生, Yuqiao Liu, 毕业去向：建行总行管培生, 在校成果：ICCV+1，NeurIPS+1，TNNLS+1，国家奖学金+1，四川省优秀毕业生
+* 2020级硕士生, Jie Wu, 毕业去向：商汤研究院, 在校成果：IJCNN+1，MLMI+1 Best Paper，ICA3PP+1
+* 2020级硕士生, Siyi Li, 毕业去向：北京国企，在校成果：TNNLS+1
 ## 我还指导过其他一些优秀同学（部分代表）
 ### 在我课题组实习过的本科生及获得的成果
 * Zilin Xiao [IJCNN+1，本科毕业后去美国攻读博士]
