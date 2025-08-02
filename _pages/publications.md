@@ -12,7 +12,7 @@ author_profile: true
 3. **孙亚楠**, 吕泽琼, 冯雨麒, 吕建成 著. 自动化机器学习, 北京: 科学出版社, 2025. (ISBN 9787030814333)  [[购买链接]](https://www.ecsponline.com/goods.php?id=227870) &nbsp;&nbsp;&nbsp;[如果你是学生，请邮箱联系我赠送与你]   
 
 ## Journal Papers
-1. Junhao Huang, Bing Xue, **Yanan Sun***, Mengjie Zhang, Gary G. Yen, "Efficient perturbation-aware distinguishing score for zero-shot neural architecture search," <i> Applied Soft Computing</i>, 2025. [source code]( https://github.com/HuangJunh/ePADS) [[http]](https://www.sciencedirect.com/science/article/pii/S1568494625007586)
+1. Junhao Huang, Bing Xue, **Yanan Sun***, Mengjie Zhang, Gary G. Yen, "Efficient perturbation-aware distinguishing score for zero-shot neural architecture search," <i> Applied Soft Computing</i>, 2025. [[http]](https://www.sciencedirect.com/science/article/pii/S1568494625007586) [source code]( https://github.com/HuangJunh/ePADS) 
 2. Junhao Huang, Bing Xue, **Yanan Sun***, Mengjie Zhang, Gary G. Yen, "LightMix: Multi-objective search for lightweight mixed-scale convolutional neural networks," <i> IEEE Transactions on Emerging Topics in Computational Intelligence</i>, 2025, DOI:10.1109/TETCI.2025.3572041 [[http]](https://ieeexplore.ieee.org/document/11023228)  [source code](https://github.com/HuangJunh/LightMix) 
 3. Nan Li, Lianbo Ma, Rui Wang, Shi Cheng, **Yanan Sun**, Bing Xue, Mengjie Zhang, "Listwise ranking predictor for evolutionary neural architecture search," <i>Swarm and Evolutionary Computation</i>, vol. 96, 2025, DOI:j.swevo.2025.101956 [[http]](https://www.sciencedirect.com/science/article/abs/pii/S2210650225001142)  [source code](https://github.com/yn-sun/paper_source_code/tree/main/LRP)
 4. Yu-Tao Xiong, Yu-Min Zeng, Hao-Nan Liu, **Ya-Nan Sun**, Wei Tang, Chang Liu, "Exploring the medical ethical limitations of GPT-4 in clinical decision-making scenarios: a pilot survey," <i>Frontiers in Public Health</i>, vol. 13, 2025, DOI:10.3389/fpubh.2025.15823775 [[http]](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1582377/full)
@@ -62,6 +62,7 @@ author_profile: true
 48. **Yanan Sun**, Gary G. Yen, Zhang Yi, "Reference line-based estimation of distribution algorithm for many-objective optimization," <i>Knowledge-Based Systems</i>, vol. 132, pp. 129-143, 2017. DOI: 10.1016/J.KNOSYS.2017.06.021. [[http]](https://www.sciencedirect.com/science/article/pii/S0950705117303015)
 49. **Yanan Sun**, Hua Mao, Yongsheng Sang, Zhang Yi, "Explicit guiding auto-encoders for learning meaningful representation," <i>Neural Computing and Applications</i>, vol. 28, no. 3, pp. 429-436, 2017. DOI: 10.1007/S00521-015-2082-X. [[http]](https://link.springer.com/article/10.1007%2Fs00521-015-2082-x)
 50. **Yanan Sun**, Hua Mao, Quan Guo, Zhang Yi, "Learning a good representation with unsymmetrical auto-encoder," <i>Neural Computing and Applications</i>, vol. 27, no. 5, pp. 1361-1367, 2016. DOI: 10.1007/S00521-015-1939-3. [[http]](https://link.springer.com/article/10.1007/s00521-015-1939-3)
+
 
 
 
