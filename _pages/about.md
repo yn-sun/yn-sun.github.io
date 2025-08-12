@@ -15,6 +15,8 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
+* Our paper about <span style="color: #FF0000">AI4Science (fast design of nuclear reactor)</span> is accepted by Nuclear Engineering and Design. Congratulate Minxiao!
+* Our paper about <span style="color: #FF0000">Exploring GPT-4o’s reasoning capabilities for panoramic radiograph</span> is accepted by Clinical Oral Investigations. Congratulate Yutao and Prof. Tang!
 * Our paper about <span style="color: #FF0000">NAS for long-tailed learning</span> is accepted by CIKM25. Congratulate Yuhan and Prof. Gong.
 * Two papers about <span style="color: #FF0000">performance predictor for NAS</span> is accepted by ICCV25. Congratulate Han!
 * Our paper about <span style="color: #FF0000">Exploring GPT-4 for clinical decision-making</span> is accepted by Front. Public Health. Congratulate Yutao and Prof. Tang!
@@ -56,4 +58,5 @@ My research interest focus on theory and applications of automated machine learn
 * low-energy consumption NAS with high-inference speed
 * feature selection and construction
 * auto data augmentation
+
 
