@@ -11,6 +11,7 @@ author_profile: true
 * Editorial Memeber of [Memetic Computing](https://www.springer.com/journal/12293) since 2021
   
 ## 其它学术兼职
+* Publication Chair of [PRICAI 2025](https://www.pricai.org/2025/index.php/organization)
 * Area Chair of [IEEE CEC2025](https://www.cec2025.org/)
 * Chair of [Special Session on Evolutionary Deep Learning and Applications in CEC24](https://yn-sun.github.io/cec24.html)
 * Chair of [IEEE Symposium 2023 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA2023)](https://attend.ieee.org/ssci-2023/ieee-symposium-on-evolutionary-neural-architecture-search-and-applications-ieee-enasa/)
@@ -34,4 +35,5 @@ author_profile: true
 * Session Chair of “Neural Networks” in AI2018
 * Tutorial Chair of “Machine Learning in Uncertain Environments” in AI2018
 * Local organization commitee member of AI2018 and CEC2019
+
 
