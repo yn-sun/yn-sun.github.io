@@ -15,7 +15,7 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
-* Two papers are accepted by PRICAI25, Congratulate to Jiawen (<span style="color: #FF0000">performance predictor</span>), and Chunhui (<span style="color: #FF0000">continous learning</span>)!
+* Two papers are accepted by PRICAI25. Congratulate to Jiawen (<span style="color: #FF0000">performance predictor</span>), and Chunhui (<span style="color: #FF0000">continous learning</span>)!
 * Our work about <span style="color: #FF0000">Performance Predictor for NAS</span> is accepted by TSMC. Congratulate Xiaotian!
 * Our paper about <span style="color: #FF0000">AI4Science (fast design of nuclear reactor)</span> is accepted by Nuclear Engineering and Design. Congratulate Minxiao!
 * Our paper about <span style="color: #FF0000">Exploring GPT-4o’s reasoning capabilities for panoramic radiograph</span> is accepted by Clinical Oral Investigations. Congratulate Yutao and Prof. Tang!
@@ -60,6 +60,7 @@ My research interest focus on theory and applications of automated machine learn
 * low-energy consumption NAS with high-inference speed
 * feature selection and construction
 * auto data augmentation
+
 
 
 
