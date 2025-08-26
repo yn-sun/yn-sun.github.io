@@ -6,7 +6,7 @@ author_profile: true
 ---
 *indicating the corresponding author
 
-1. Chunhui Ding, Aojun Lu, Jiahao Fan, **Yanan Sun***, "Enhancing replay-based continual learning via predictive uncertainty controller," <i>PRICAI 2025: Trends in Artificial Intelligence</i>, Wellington, New Zealand, 17-21th November, 2025. 
+1. Chunhui Ding, Aojun Lu, Jiahao Fan, **Yanan Sun***, "Enhancing replay-based continual learning via predictive uncertainty controller," <i>PRICAI 2025: Trends in Artificial Intelligence</i>, Wellington, New Zealand, 17-21th November, 2025. [source code](https://github.com/scudch9/PUC)
 2. Jiawen Deng, Han Ji, **Yanan Sun***, "BMSR: A bidirectional multi-hop predictor with structure-aware ranking loss for NAS," <i>PRICAI 2025: Trends in Artificial Intelligence</i>, Wellington, New Zealand, 17-21th November, 2025. [source code](https://github.com/Thorn-222/BMSR)
 3. Yuhan Pan, **Yanan Sun**, Wei Gong, "Revisiting long-tailed learning: insights from an architectural perspective," The 34th ACM International Conference on Information and Knowledge Management (CIKM25), Nov 10-14, 2025, Seoul, Korea.
 4. Han Ji, Yuqi Feng, Jiahao Fan, **Yanan Sun***, "Loss functions for predictor-based neural architecture search," International Conference on Computer Vision 2025 (ICCV25), Oct 19-23, 2025, Hawai'i, USA.
