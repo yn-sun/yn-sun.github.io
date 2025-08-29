@@ -22,7 +22,7 @@ author_profile: true
 * 2023非全硕, Lu Zhou
 
 ### 已毕业
-* 2022级硕士生, Xiaotian Song, 毕业去向：硕博连读, 在校成果：TEVC+1, TAI+1, ECCV+1, IJCAI+1, ICIC+1, 国家奖学金+1, 英特尔奖学金+1
+* 2022级硕士生, Xiaotian Song, 毕业去向：硕博连读, 在校成果：TEVC+1, TAI+1, ECCV+1, IJCAI+1, ICIC+1, TSMC+1 国家奖学金+1, 英特尔奖学金+1
 * 2022级硕士生, Shuchao Deng, 毕业去向：创业,  在校成果：中国科学+1, TETCI+1, GECCO+1
 * 2022级硕士生, Chengzhe Feng, 毕业去向：钉钉, 在校成果：ICIC+1
 * 2021级硕士生, Xiangning Xie, 毕业去向：阿里, 在校成果：TEVC+1，TCYB+1，四川大学优秀硕士论文
@@ -119,4 +119,5 @@ author_profile: true
 ## 2017
 * Summer Scholar: Bin Wang (co-supervised with Bing Xue, Mengjie Zhang), “Evolving deep convolutional neural networks by variable-length particle swarm optimization for image classification”, in this research, Bin has been produced one paper that has been accepted by [CEC2018](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8477735).
 -->
+
 
