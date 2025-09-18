@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yanan Sun"
-  avatar           : "head.png"
+  avatar           : "head.jpg"
   bio              : "Professor, Sichuan University"
   location         : "Chengdu, China"
   employer         :
@@ -309,3 +309,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
