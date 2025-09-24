@@ -15,6 +15,7 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
+* I am awarded 2025 <span style="color: #FF0000">Outstanding Associate Editor</span> of IEEE Transactions on Evolutionary Computation (TEVC)!
 * Our work about <span style="color: #FF0000">robust learning</span> is accepted by NeurIPS25. Congratulate Yuqi!
 * Two papers are accepted by PRICAI25. Congratulate to Jiawen (<span style="color: #FF0000">performance predictor</span>) and Chunhui (<span style="color: #FF0000">continous learning</span>)! Chunhui is a senior student.
 * Our work about <span style="color: #FF0000">Performance Predictor for NAS</span> is accepted by TSMC. Congratulate Xiaotian!
@@ -61,6 +62,7 @@ My research interest focus on theory and applications of automated machine learn
 * low-energy consumption NAS with high-inference speed
 * feature selection and construction
 * auto data augmentation
+
 
 
 
