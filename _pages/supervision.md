@@ -22,7 +22,7 @@ author_profile: true
 * 2023非全硕, Lu Zhou
 
 ### 已毕业
-| 年级与身份 | 姓名 | 毕业去向 | 在校成果 |
+| 年级 | 姓名 | 毕业去向 | 在校成果(仅统计第一作者) |
 | :--- | :--- | :--- | :--- |
 | 22级硕 | Xiaotian Song | 硕博连读 | TEVC, TAI, ECCV2024, IJCAI2024, ICIC2023, TSMC, 国家奖学金, 英特尔奖学金，四川大学优秀硕士 |
 | 22级硕 | Shuchao Deng | 成都西川中学 | 中国科学, TETCI, GECCO2022 |
@@ -122,6 +122,7 @@ author_profile: true
 ## 2017
 * Summer Scholar: Bin Wang (co-supervised with Bing Xue, Mengjie Zhang), “Evolving deep convolutional neural networks by variable-length particle swarm optimization for image classification”, in this research, Bin has been produced one paper that has been accepted by [CEC2018](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8477735).
 -->
+
 
 
 
