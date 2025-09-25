@@ -25,18 +25,17 @@ author_profile: true
 
 | 年级与身份 | 姓名 | 毕业去向 | 在校成果 |
 | :--- | :--- | :--- | :--- |
-| 2022级硕士生 | Xiaotian Song | 硕博连读 | TEVC, TAI, ECCV2024, IJCAI2024, ICIC2023, TSMC, 国家奖学金, 英特尔奖学金，四川大学优秀硕士 |
-| 2022级硕士生 | Shuchao Deng | 成都西川中学 | 中国科学, TETCI, GECCO2022 |
-| 2022级硕士生 | Chengzhe Feng | 钉钉 | ICIC2024 |
-| 2021级硕士生 | Xiangning Xie | 阿里 | TEVC, TCYB, 四川大学优秀硕士 |
-| 2021级硕士生 | Peng Zeng | 云南省选调 | GECCO2022 |
-| 2021级硕士生 | Xiao Yang (退役士兵) | 江苏国企 | IJCNN2024, "互联网+"省金 |
-| 2021级硕士生 | Zixuan Liang | 腾讯 | ACML2024 |
-| 2021级硕士生 | Yuwei Ou | 海康威视 | CVPR2024 |
-| 2020级硕士生 | Yuqiao Liu | 建行总行管培生 | ICCV2020, NeurIPS2021, TNNLS, 国家奖学金, 四川省优秀毕业生 |
-| 2020级硕士生 | Jie Wu | 商汤研究院 | ICA3PP2021, IJCNN2022, MLMI2022(Best Paper) |
-| 2020级硕士生 | Siyi Li | 中国保险保障基金有限责任公司 | TNNLS |
-
+| 22级硕 | Xiaotian Song | 硕博连读 | TEVC, TAI, ECCV2024, IJCAI2024, ICIC2023, TSMC, 国家奖学金, 英特尔奖学金，四川大学优秀硕士 |
+| 22级硕 | Shuchao Deng | 成都西川中学 | 中国科学, TETCI, GECCO2022 |
+| 22级硕 | Chengzhe Feng | 钉钉 | ICIC2024 |
+| 21级硕 | Xiangning Xie | 阿里 | TEVC, TCYB, 四川大学优秀硕士 |
+| 21级硕 | Peng Zeng | 云南省选调 | GECCO2022 |
+| 21级硕 | Xiao Yang (退役士兵) | 江苏国企 | IJCNN2024, "互联网+"省金 |
+| 21级硕 | Zixuan Liang | 腾讯 | ACML2024 |
+| 21级硕 | Yuwei Ou | 海康威视 | CVPR2024 |
+| 20级硕 | Yuqiao Liu | 建行总行管培生 | ICCV2020, NeurIPS2021, TNNLS, 国家奖学金, 四川省优秀毕业生 |
+| 20级硕 | Jie Wu | 商汤研究院 | ICA3PP2021, IJCNN2022, MLMI2022(Best Paper) |
+| 20级硕 | Siyi Li | 中国保险保障基金有限责任公司 | TNNLS |
 ## 我还指导过其他一些优秀同学（部分代表）
 ### 在我课题组实习过的本科生及获得的成果
 * Zilin Xiao [IJCNN+1，本科毕业后去美国攻读博士]
@@ -123,6 +122,7 @@ author_profile: true
 ## 2017
 * Summer Scholar: Bin Wang (co-supervised with Bing Xue, Mengjie Zhang), “Evolving deep convolutional neural networks by variable-length particle swarm optimization for image classification”, in this research, Bin has been produced one paper that has been accepted by [CEC2018](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8477735).
 -->
+
 
 
 
