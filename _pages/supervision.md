@@ -22,17 +22,17 @@ author_profile: true
 * 2023非全硕, Lu Zhou
 
 ### 已毕业
-* 22级硕, <span style="width: 220px">Xiaotian Song</span>, 毕业去向：硕博连读, 在校成果：TEVC+1, TAI+1, ECCV+1, IJCAI+1, ICIC+1, TSMC+1 国家奖学金+1, 英特尔奖学金+1
-* 22级硕, <span style="width: 220px">Shuchao Deng</span>, 毕业去向：创业,  在校成果：中国科学+1, TETCI+1, GECCO+1
-* 22级硕, <span style="width: 220px">Chengzhe Feng</span>, 毕业去向：钉钉, 在校成果：ICIC+1
-* 21级硕, <span style="width: 220px">Xiangning Xie</span>, 毕业去向：阿里, 在校成果：TEVC+1，TCYB+1，四川大学优秀硕士论文
-* 21级硕, <span style="width: 220px">Peng Zeng</span>, 毕业去向：云南省选调, 在校成果：GECCO+1
-* 21级硕, <span style="width: 220px">Xiao Yang (退役士兵</span>）, 毕业去向：江苏国企, 在校成果：IJCNN+1，"互联网+"省金+1
-* 21级硕, <span style="width: 220px">Zixuan Liang</span>, 毕业去向：腾讯, 在校成果：ACML+1
-* 21级硕, <span style="width: 220px">Yuwei Ou</span>, 毕业去向：海康威视, 在校成果：CVPR+1
-* 20级硕, <span style="width: 220px">Yuqiao Liu</span>, 毕业去向：建行总行管培生, 在校成果：ICCV+1，NeurIPS+1，TNNLS+1，国家奖学金+1，四川省优秀毕业生
-* 20级硕, <span style="width: 220px">Jie Wu</span>, 毕业去向：商汤研究院, 在校成果：IJCNN+1，MLMI+1 Best Paper，ICA3PP+1
-* 20级硕, <span style="width: 220px">Siyi Li</span>, 毕业去向：北京国企，在校成果：TNNLS+1
+* 22级硕, <span style='width: 220px'>Xiaotian Song</span>, 毕业去向：硕博连读, 在校成果：TEVC+1, TAI+1, ECCV+1, IJCAI+1, ICIC+1, TSMC+1 国家奖学金+1, 英特尔奖学金+1
+* 22级硕, <span style='width: 220px'>Shuchao Deng</span>, 毕业去向：创业,  在校成果：中国科学+1, TETCI+1, GECCO+1
+* 22级硕, <span style='width: 220px'>Chengzhe Feng</span>, 毕业去向：钉钉, 在校成果：ICIC+1
+* 21级硕, <span style='width: 220px'>Xiangning Xie</span>, 毕业去向：阿里, 在校成果：TEVC+1，TCYB+1，四川大学优秀硕士论文
+* 21级硕, <span style='width: 220px'>Peng Zeng</span>, 毕业去向：云南省选调, 在校成果：GECCO+1
+* 21级硕, <span style='width: 220px'>Xiao Yang (退役士兵</span>）, 毕业去向：江苏国企, 在校成果：IJCNN+1，"互联网+"省金+1
+* 21级硕, <span style='width: 220px'>Zixuan Liang</span>, 毕业去向：腾讯, 在校成果：ACML+1
+* 21级硕, <span style='width: 220px'>Yuwei Ou</span>, 毕业去向：海康威视, 在校成果：CVPR+1
+* 20级硕, <span style='width: 220px'>Yuqiao Liu</span>, 毕业去向：建行总行管培生, 在校成果：ICCV+1，NeurIPS+1，TNNLS+1，国家奖学金+1，四川省优秀毕业生
+* 20级硕, <span style='width: 220px'>Jie Wu</span>, 毕业去向：商汤研究院, 在校成果：IJCNN+1，MLMI+1 Best Paper，ICA3PP+1
+* 20级硕, <span style='width: 220px'>Siyi Li</span>, 毕业去向：北京国企，在校成果：TNNLS+1
 
 ## 我还指导过其他一些优秀同学（部分代表）
 ### 在我课题组实习过的本科生及获得的成果
@@ -120,6 +120,7 @@ author_profile: true
 ## 2017
 * Summer Scholar: Bin Wang (co-supervised with Bing Xue, Mengjie Zhang), “Evolving deep convolutional neural networks by variable-length particle swarm optimization for image classification”, in this research, Bin has been produced one paper that has been accepted by [CEC2018](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8477735).
 -->
+
 
 
 
