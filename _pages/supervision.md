@@ -8,7 +8,7 @@ author_profile: true
 
 ## 自入职四川大学以来作为研究生导师指导的学生（成果仅统计第一作者）Last Updated:2025/06/28
 ### 在读研究生
-* 2024博士生，Xiaotian Song [IEEE Transactions on Computers +1]
+* 2024博士生, Xiaotian Song [IEEE Transactions on Computers +1]
 * 2023直博生, Aojun Lu, [IJCAI+1, ICML+1, NAS全球竞赛第一名+2, 腾讯奖学金+1]
 * 2023非全博, Jian Zhang
 * 2022直博生, Yuqi Feng, [CVPR+1, ICLR+1, TNNLS+1, TKDE+1, "互联网+"国银+1，国家奖学金+1】
@@ -121,6 +121,7 @@ author_profile: true
 ## 2017
 * Summer Scholar: Bin Wang (co-supervised with Bing Xue, Mengjie Zhang), “Evolving deep convolutional neural networks by variable-length particle swarm optimization for image classification”, in this research, Bin has been produced one paper that has been accepted by [CEC2018](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8477735).
 -->
+
 
 
 
