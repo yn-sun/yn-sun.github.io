@@ -16,7 +16,7 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 News
 ======
 * Our paper about <span style="color: #FF0000">robust learning</span> is accepted by IEEE TNNLS. Congratulations to Yuqi and Yuwei!
-* Our paper about <span style="color: #FF0000">Performance Predictor for NASr</span> is accepted by IEEE Transactions on Evolutionary Computation (TEVC). Congratulations to Junhao!
+* Our paper about <span style="color: #FF0000">Performance Predictor for NAS</span> is accepted by IEEE Transactions on Evolutionary Computation (TEVC). Congratulations to Junhao!
 * Two papers about <span style="color: #FF0000">robust learning</span> and <span style="color: #FF0000">SSN LLM</span> are accepted by AAAI2026. Congratulations to Yuqi and Long!
 * Congratulations to Jingrong, Han Ji, and Yuqi on winning the National Scholarship!
 * Our paper about <span style="color: #FF0000">constrained optimization</span> is accepted by SWEVO. Congratulations to Sri and Jiahao!
@@ -68,6 +68,7 @@ My research interest focus on theory and applications of automated machine learn
 * low-energy consumption NAS with high-inference speed
 * feature selection and construction
 * auto data augmentation
+
 
 
 
