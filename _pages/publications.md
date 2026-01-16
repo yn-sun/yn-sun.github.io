@@ -12,10 +12,10 @@ author_profile: true
 3. **孙亚楠**, 吕泽琼, 冯雨麒, 吕建成 著. 自动化机器学习, 北京: 科学出版社, 2025. (ISBN 9787030814333)  [[购买链接]](https://www.ecsponline.com/goods.php?id=227870) &nbsp;&nbsp;&nbsp;[如果你是学生，请邮箱联系我赠送与你]   
 
 ## Journal Papers
-1. Yuqi Feng, Yuwei ou, **Yanan Sun***, "Accurate and Robust Neural Architecture Search via a Flexible Supernet," <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2025. 
+1. Yuqi Feng, Yuwei ou, **Yanan Sun***, "Accurate and Robust Neural Architecture Search via a Flexible Supernet," <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2025. DOI:10.1109/TNNLS.2025.3649055 [[http]](https://ieeexplore.ieee.org/document/11322813/) [source code](https://github.com/fyqsama/ARNASpp)
 2. Junhao Huang, Bing Xue, **Yanan Sun***, Mengjie Zhang, Gary G. Yen, "EvoREP: Evolving Reliable Ensemble of Proxies for Zero-Shot Neural Architecture Search," <i> IEEE Transactions on Evolutionary Computation</i>, 2025. DOI:10.1109/TEVC.2025.3646736 [[http]](https://ieeexplore.ieee.org/document/11310796)
 3. Sri Srinivasa Raju Modampuri, Jiahao Fan, **Yanan Sun**, "A two-stage ensemble evolutionary algorithm for constrained multi-objective optimization," <i>Swarm and Evolutionary Computation</i>, vol. 99, 102213, 2025, DOI:j.swevo.2025.102213 [[http]](https://www.sciencedirect.com/science/article/pii/S2210650225003700) 
-4. Xiaotian Song, Jingrong Xie, Yuqi Feng, Andy Song, **Yanan Sun***, "DAP: Domain adaptive performance predictor for efficient neural architecture search," <i>IEEE Transactions on Computers </i>, 2025, DOI:10.1109/TC.2025.3624960. [source code](https://github.com/songxt3/DAP) 
+4. Xiaotian Song, Jingrong Xie, Yuqi Feng, Andy Song, **Yanan Sun***, "DAP: Domain adaptive performance predictor for efficient neural architecture search," <i>IEEE Transactions on Computers </i>, 2025, DOI:10.1109/TC.2025.3624960. [[http]](https://ieeexplore.ieee.org/abstract/document/11216133) [source code](https://github.com/songxt3/DAP) 
 5. Xiaotian Song, Han Ji, Jian Zhang, Jiyuan Liu, Shangce Gao, **Yanan Sun**, "Online performance predictor for evolutionary neural architecture search," <i>IEEE Transactions on Systems, Man and Cybernetics: Systems</i>, 2025, DOI:10.1109/TSMC.2025.3599175. [[http](https://ieeexplore.ieee.org/document/11145879)] [source code](https://github.com/songxt3/GPOPP) 
 6. Yu-Tao Xiong, Wen-Jun Lian, **Ya-Nan Sun**, Wei Liu, Ji-Xiang Guo, Wei Tang, Chang Liu, "Exploring GPT-4o’s multimodal reasoning capabilities with panoramic radiograph: the role of prompt engineering," <i>Clinical Oral Investigations</i>, vol. 29, article number 405, 2025, DOI:10.1007/s00784-025-06498-9
 [[http]](https://link.springer.com/article/10.1007/s00784-025-06498-9)
@@ -71,6 +71,7 @@ author_profile: true
 56. **Yanan Sun**, Gary G. Yen, Zhang Yi, "Reference line-based estimation of distribution algorithm for many-objective optimization," <i>Knowledge-Based Systems</i>, vol. 132, pp. 129-143, 2017. DOI: 10.1016/J.KNOSYS.2017.06.021. [[http]](https://www.sciencedirect.com/science/article/pii/S0950705117303015)
 57. **Yanan Sun**, Hua Mao, Yongsheng Sang, Zhang Yi, "Explicit guiding auto-encoders for learning meaningful representation," <i>Neural Computing and Applications</i>, vol. 28, no. 3, pp. 429-436, 2017. DOI: 10.1007/S00521-015-2082-X. [[http]](https://link.springer.com/article/10.1007%2Fs00521-015-2082-x)
 58. **Yanan Sun**, Hua Mao, Quan Guo, Zhang Yi, "Learning a good representation with unsymmetrical auto-encoder," <i>Neural Computing and Applications</i>, vol. 27, no. 5, pp. 1361-1367, 2016. DOI: 10.1007/S00521-015-1939-3. [[http]](https://link.springer.com/article/10.1007/s00521-015-1939-3)
+
 
 
 
