@@ -15,6 +15,7 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
+* One paper about <span style="color: #FF0000">SSN LLM</span> is accepted by ICME2026. Congratulations to Long and Xiaotian!
 * Our paper about <span style="color: #FF0000">Continious Learning</span> is accepted by CVPR2026, Congratulations to Aojun!
 * Two work about <span style="color: #FF0000">scheduling</span>are accepted by TCYB and ICAPS2026, respectively, Congratulations to Yun!
 * Our paper about <span style="color: #FF0000">robust learning</span> is accepted by IEEE TNNLS. Congratulations to Yuqi and Yuwei!
