@@ -8,7 +8,7 @@ author_profile: true
 
 ## 自入职四川大学以来作为研究生导师指导的学生（成果仅统计第一作者）Last Updated:2025/11/17
 ### 在读研究生
-* 2024博士生, Xiaotian Song [IEEE Transactions on Computers +1]
+* 2024博士生, Xiaotian Song [ToC+1, ICME+1]
 * 2023直博生, Aojun Lu, [IJCAI+1, ICML+1, CVPR+1, AAAI+1, NAS全球竞赛第一名+2, 腾讯奖学金+1]
 * 2023非全博, Jian Zhang
 * 2022直博生, Yuqi Feng, [CVPR+1, ICLR+1, TNNLS+2, TKDE+1, NeurIPS+1, "互联网+"国银+1，国家奖学金+1】
