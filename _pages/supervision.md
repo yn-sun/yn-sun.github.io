@@ -12,8 +12,8 @@ author_profile: true
 * 2023直博生, Aojun Lu, [IJCAI+1, ICML+1, CVPR+1, AAAI+1, NAS全球竞赛第一名+2, 腾讯奖学金+1]
 * 2023非全博, Jian Zhang
 * 2022直博生, Yuqi Feng, [CVPR+1, ICLR+1, TNNLS+2, TKDE+1, NeurIPS+1, "互联网+"国银+1，国家奖学金+1】
-* 2022博士生, Yun Liu, [TEVC+1, TCYB+1, ICAPS+1]
-* 2022连培博, Minxiao Zhong, [ICIC+1, IJCNN+1，Nuclear Engineering and Design+1]
+* 2022博士生, Yun Liu, [TEVC+1, TCYB+1, ICAPS+1, IJCNN+1]
+* 2022连培博, Minxiao Zhong, [ICIC+1, IJCNN+1, Nuclear Engineering and Design+1, IJCNN+1]
 * 2024硕士生, Jiawen Deng, [PRICAI+1]
 * 2023硕士生, Jingrong Xie, [ICML+1, IJCNN+1，国家奖学金+1]
 * 2023硕士生, Han Ji, [IJCAI+1, ICCV+2, 国家奖学金+2]
