@@ -9,18 +9,25 @@ author_profile: true
 ## 自入职四川大学以来作为研究生导师指导的学生（成果仅统计第一作者）Last Updated:2026/4/10
 ### 在读研究生
 #### Full time
-* 2024博士生, Xiaotian Song [ToC+1, ICME+1]
+* 2026直博生, Xiangqi Ni
+* 2026博士生, Jingjing Ma
+* 2026博士生, Han Yang
+* 2025博士生, Xiaotian Song [ToC+1, ICME+1]
+* 2025直博生, Chunhui Deng [PRICAI+1]
 * 2023直博生, Aojun Lu, [IJCAI+1, ICML+1, CVPR+1, AAAI+1, NAS全球竞赛第一名+2, 腾讯奖学金+1]
-* 2023非全博, Jian Zhang
 * 2022直博生, Yuqi Feng, [CVPR+1, ICLR+1, TNNLS+2, TKDE+1, NeurIPS+1, "互联网+"国银+1，国家奖学金+1】
 * 2022博士生, Yun Liu, [TEVC+1, TCYB+1, ICAPS+1, IJCNN+1]
-* 2022连培博, Minxiao Zhong, [ICIC+1, IJCNN+1, Nuclear Engineering and Design+1, IJCNN+1]
+* 2022博士生, Minxiao Zhong, [与中国核动力研究设计院联培, ICIC+1, IJCNN+1, Nuclear Engineering and Design+1, IJCNN+1]
 * 2024硕士生, Jiawen Deng, [PRICAI+1]
 * 2023硕士生, Jingrong Xie, [ICML+1, IJCNN+1，国家奖学金+1]
 * 2023硕士生, Han Ji, [IJCAI+1, ICCV+2, 国家奖学金+2]
 * 2023硕士生, Long Chen, [MIND25+1, AAAI2026+1, ICME2026+1]
-* 2023连培硕, Junchao Ke
-* 2023非全硕, Lu Zhou
+* 2023硕士生, Junchao Ke, [与中国航空工业集团联培]
+#### Part time
+* 2025博士生, Shisheng Sun
+* 2025博士生, Hui Meng
+* 2023博士生, Jian Zhang
+* 2023硕士生, Lu Zhou
 
 ### 已毕业
 * 21级博, <span style='width: 220px'> Zeqiong Lv</span>, 毕业去向：南京大学，在校成果：TEVC+1, GECCO+1, TETCI+1, ICML+1，IEEE 研究生奖学金+1，GECCO旅行奖学金+1
