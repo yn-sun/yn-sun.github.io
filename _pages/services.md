@@ -27,7 +27,7 @@ author_profile: true
 * Senior Program Committee of IJCAI2021
 * Chair of [IEEE Symposium 2020 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA2020)](http://www.ieeessci2020.org/symposiums/enasa.html)
 * Founding Chair of the IEEE CIS Task-force on “Evolutionary Deep Learning and Applications”
-* IEEE CIS Graduate Student Research Grants Committee Member (leading the direction of Evolutionary Systems)
+* IEEE CIS Graduate Student Research Grants Committee Member (leading the direction of Evolutionary Systems), 2019-2023
 * Guest Editor: Special Issue on Evolutionary Feature Learning in Image and Pattern Recogintion, Feature Reduction and Learning, Applied Soft Computing (Journal), Springer, 2017
 * Leading Organizer of Special Session “Evolutionary Deep Learning and Applications” on CEC2019
 * Leading Organizer of “The 1st Workshop on Evolutionary Deep Learning”
