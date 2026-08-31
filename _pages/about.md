@@ -15,6 +15,7 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
+* One paper about <span style="color: #FF0000">Efficient Continual Learning,</span> is accepted by IJCV. Congratulations to Wei!
 * I am inivited to be Tutorial Chair of IEEE CEC2027!
 * I am invited to be Area Chair of NeurIPS2026!
 * One paper about <span style="color: #FF0000">SSN LLM</span> is accepted by ICME2026. Congratulations to Long and Xiaotian!
