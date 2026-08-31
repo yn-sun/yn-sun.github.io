@@ -9,7 +9,7 @@ author_profile: true
 ## Authored Book/Chapter
 1. **Yanan Sun**, Gary G. Yen, Mengjie Zhang, "[Evolutionary Deep Neural Architecture Search: Fundamentals, Methods, and Recent Advances](https://link.springer.com/book/10.1007/978-3-031-16868-0)" <i>Springer</i>, Hardcover ISBN: 978-3-031-16867-3, Published: 09 November 2022. DOI:[https://doi.org/10.1007/978-3-031-16868-0](https://doi.org/10.1007/978-3-031-16868-0) (XVI + 331 pages, the first book on evolutionary neural architecture search)  [Buy from Amazon](https://www.amazon.com/Evolutionary-Deep-Neural-Architecture-Search/dp/3031168674)
 2. Zeqiong Lv, Xiaotian Song, Yuqi Feng, Yuwei Ou, **Yanan Sun***, Mengjie Zhang. "Evolutionary Neural Network Architecture Search". <i>In Handbook of Evolutionary Machine Learning</i>, pp. 247-281, 2023. Singapore: Springer Nature Singapore. [[http]](https://link.springer.com/content/pdf/10.1007/978-981-99-3814-8.pdf#page=255)
-3. **孙亚楠**, 吕泽琼, 冯雨麒, 吕建成 著. 自动化机器学习, 北京: 科学出版社, 2025. (ISBN 9787030814333)  [[购买链接]](https://www.ecsponline.com/goods.php?id=227870) &nbsp;&nbsp;&nbsp;[如果你是学生，请邮箱联系我赠送与你]   
+3. **孙亚楠**, 吕泽琼, 冯雨麒, 吕建成 著. 自动化机器学习, 北京: 科学出版社, 2025. (ISBN 9787030814333)  [[购买链接]](https://www.ecsponline.com/goods.php?id=227870) &nbsp;&nbsp;&nbsp;  
 
 ## Journal Papers
 1. Wei Li, Hangjie Yuan, Zixiang Zhao, Yifan Zhu, Aojun Lu, Guodong Du, **Yanan Sun**, Tao Feng, "C-Flat++: Towards a more efficient and powerful framework for continual learning," International Journal of Computer Vision, 2026. [source code](https://github.com/THUDM/INFTY)
