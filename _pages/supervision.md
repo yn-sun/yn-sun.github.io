@@ -26,7 +26,7 @@ author_profile: true
 * 2023硕士生, Lu Zhou
 
 ### 已毕业
-* 23级硕，<span style='width: 220px'>Han Ji</span>, 毕业去向：香港理工大学，在校成果：IJCAI+1, ICCV+2, 国家奖学金+2
+* 23级硕，<span style='width: 220px'>Han Ji</span>, 毕业去向：香港理工大学，在校成果：IJCAI+1, ICCV+2, 国家奖学金+2，四川大学优秀硕士论文
 * 23级硕，<span style='width: 220px'>Jingrong Xie</span>, 毕业去向：美团，在校成果：ICML+1, IJCNN+1，国家奖学金+1
 * 23级硕，<span style='width: 220px'>Long Chen</span>, 毕业去向：英特尔，在校成果：MIND25+1, AAAI2026+1, ICME2026+1
 * 23级硕，<span style='width: 220px'>Junchao Ke</span>, 毕业去向：百度
