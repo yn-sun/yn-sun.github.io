@@ -35,7 +35,7 @@ author_profile: true
 * 22级硕, <span style='width: 220px'>Shuchao Deng</span>, 毕业去向：创业,  在校成果：中国科学+1, TETCI+1, GECCO+1
 * 22级硕, <span style='width: 220px'>Chengzhe Feng</span>, 毕业去向：钉钉, 在校成果：ICIC+1
 * 21级硕, <span style='width: 220px'>Xiangning Xie</span>, 毕业去向：阿里, 在校成果：TEVC+1，TCYB+1，四川大学优秀硕士论文
-* 21级硕, <span style='width: 220px'>Peng Zeng</span>, 毕业去向：云南省选调, 在校成果：GECCO+1
+* 21级硕, <span style='width: 220px'>Peng Zeng</span>, 毕业去向：选调生, 在校成果：GECCO+1
 * 21级硕, <span style='width: 220px'>Xiao Yang (退役士兵</span>）, 毕业去向：江苏国企, 在校成果：IJCNN+1，"互联网+"省金+1
 * 21级硕, <span style='width: 220px'>Zixuan Liang</span>, 毕业去向：腾讯, 在校成果：ACML+1
 * 21级硕, <span style='width: 220px'>Yuwei Ou</span>, 毕业去向：海康威视, 在校成果：CVPR+1
