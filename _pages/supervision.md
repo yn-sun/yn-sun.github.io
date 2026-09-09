@@ -38,7 +38,7 @@ author_profile: true
 * 21级硕, <span style='width: 220px'>Peng Zeng</span>, 毕业去向：选调生, 在校成果：GECCO+1
 * 21级硕, <span style='width: 220px'>Xiao Yang (退役士兵</span>）, 毕业去向：江苏国企, 在校成果：IJCNN+1，"互联网+"省金+1
 * 21级硕, <span style='width: 220px'>Zixuan Liang</span>, 毕业去向：腾讯, 在校成果：ACML+1
-* 21级硕, <span style='width: 220px'>Yuwei Ou</span>, 毕业去向：海康威视, 在校成果：CVPR+1
+* 21级硕, <span style='width: 220px'>Yuwei Ou</span>, 毕业去向：海康威视, 在校成果：CVPR+1, ICLR+1
 * 20级硕, <span style='width: 220px'>Yuqiao Liu</span>, 毕业去向：建行总行管培生, 在校成果：ICCV+1，NeurIPS+1，TNNLS+1，国家奖学金+1，四川省优秀毕业生
 * 20级硕, <span style='width: 220px'>Jie Wu</span>, 毕业去向：商汤研究院, 在校成果：IJCNN+1，MLMI+1 Best Paper，ICA3PP+1
 * 20级硕, <span style='width: 220px'>Siyi Li</span>, 毕业去向：北京国企，在校成果：TNNLS+1
