@@ -9,9 +9,9 @@ author_profile: true
 ## 自入职四川大学以来作为研究生导师指导的学生（成果仅统计第一作者）Last Updated:2026/4/10
 ### 在读研究生
 #### Full time
-* 2026直博生, Xiangqi Ni
+* 2026直博生, Xiangqi Niu
 * 2026博士生, Jingjing Ma
-* 2026博士生, Han Yang
+* 2026博士生, Yihan Yang
 * 2025博士生, Xiaotian Song [ToC+1, ICME+1]
 * 2025直博生, Chunhui Deng [PRICAI+1]
 * 2023直博生, Aojun Lu, [IJCAI+1, ICML+1, CVPR+1, AAAI+1, NAS全球竞赛第一名+2, 腾讯奖学金+1]
@@ -19,10 +19,6 @@ author_profile: true
 * 2022博士生, Yun Liu, [TEVC+1, TCYB+1, ICAPS+1, IJCNN+1]
 * 2022博士生, Minxiao Zhong, [与中国核动力研究设计院联培, ICIC+1, IJCNN+1, Nuclear Engineering and Design+1, IJCNN+1]
 * 2024硕士生, Jiawen Deng, [PRICAI+1]
-* 2023硕士生, Jingrong Xie, [ICML+1, IJCNN+1，国家奖学金+1]
-* 2023硕士生, Han Ji, [IJCAI+1, ICCV+2, 国家奖学金+2]
-* 2023硕士生, Long Chen, [MIND25+1, AAAI2026+1, ICME2026+1]
-* 2023硕士生, Junchao Ke, [与中国航空工业集团联培]
 #### Part time
 * 2025博士生, Shisheng Sun
 * 2025博士生, Hui Meng
@@ -30,7 +26,11 @@ author_profile: true
 * 2023硕士生, Lu Zhou
 
 ### 已毕业
-* 21级博, <span style='width: 220px'> Zeqiong Lv</span>, 毕业去向：南京大学，在校成果：TEVC+1, GECCO+1, TETCI+1, ICML+1，IEEE 研究生奖学金+1，GECCO旅行奖学金+1
+* 23级硕，<span style='width: 220px'>Han Ji</span>, 毕业去向：香港理工大学，在校成果：IJCAI+1, ICCV+2, 国家奖学金+2
+* 23级硕，<span style='width: 220px'>Jingrong Xie</span>, 毕业去向：美团，在校成果：ICML+1, IJCNN+1，国家奖学金+1
+* 23级硕，<span style='width: 220px'>Long Chen</span>, 毕业去向：英特尔，在校成果：MIND25+1, AAAI2026+1, ICME2026+1
+* 23级硕，<span style='width: 220px'>Junchao Ke</span>, 毕业去向：百度
+* 21级博, <span style='width: 220px'>Zeqiong Lv</span>, 毕业去向：南京大学，在校成果：TEVC+1, GECCO+1, TETCI+1, ICML+1，IEEE 研究生奖学金+1，GECCO旅行奖学金+1
 * 22级硕, <span style='width: 220px'>Xiaotian Song</span>, 毕业去向：硕博连读, 在校成果：TEVC+1, TAI+1, ECCV+1, IJCAI+1, ICIC+1, TSMC+1 国家奖学金+1, 英特尔奖学金+1
 * 22级硕, <span style='width: 220px'>Shuchao Deng</span>, 毕业去向：创业,  在校成果：中国科学+1, TETCI+1, GECCO+1
 * 22级硕, <span style='width: 220px'>Chengzhe Feng</span>, 毕业去向：钉钉, 在校成果：ICIC+1
