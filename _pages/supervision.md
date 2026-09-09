@@ -29,14 +29,14 @@ author_profile: true
 * 23级硕，<span style='width: 220px'>Han Ji</span>, 毕业去向：香港理工大学，在校成果：IJCAI+1, ICCV+2, 国家奖学金+2，四川大学优秀硕士论文
 * 23级硕，<span style='width: 220px'>Jingrong Xie</span>, 毕业去向：美团，在校成果：ICML+1, IJCNN+1，国家奖学金+1
 * 23级硕，<span style='width: 220px'>Long Chen</span>, 毕业去向：英特尔，在校成果：MIND25+1, AAAI2026+1, ICME2026+1
-* 23级硕，<span style='width: 220px'>Junchao Ke</span>, 企业连培硕士，毕业去向：百度
+* 23级硕，<span style='width: 220px'>Junchao Ke (专项计划)</span>,毕业去向：百度
 * 21级博, <span style='width: 220px'>Zeqiong Lv</span>, 毕业去向：南京大学，在校成果：TEVC+1, GECCO+1, TETCI+1, ICML+1，IEEE 研究生奖学金+1，GECCO旅行奖学金+1
 * 22级硕, <span style='width: 220px'>Xiaotian Song</span>, 毕业去向：硕博连读, 在校成果：TEVC+1, TAI+1, ECCV+1, IJCAI+1, ICIC+1, TSMC+1 国家奖学金+1, 英特尔奖学金+1
 * 22级硕, <span style='width: 220px'>Shuchao Deng</span>, 毕业去向：创业,  在校成果：中国科学+1, TETCI+1, GECCO+1
 * 22级硕, <span style='width: 220px'>Chengzhe Feng</span>, 毕业去向：钉钉, 在校成果：ICIC+1
 * 21级硕, <span style='width: 220px'>Xiangning Xie</span>, 毕业去向：阿里, 在校成果：TEVC+1，TCYB+1，四川大学优秀硕士论文
 * 21级硕, <span style='width: 220px'>Peng Zeng</span>, 毕业去向：选调生, 在校成果：GECCO+1
-* 21级硕, <span style='width: 220px'>Xiao Yang (退役士兵</span>）, 毕业去向：江苏国企, 在校成果：IJCNN+1，"互联网+"省金+1
+* 21级硕, <span style='width: 220px'>Xiao Yang (退役士兵计划)</span>, 毕业去向：江苏国企, 在校成果：IJCNN+1，"互联网+"省金+1
 * 21级硕, <span style='width: 220px'>Zixuan Liang</span>, 毕业去向：腾讯, 在校成果：ACML+1
 * 21级硕, <span style='width: 220px'>Yuwei Ou</span>, 毕业去向：海康威视, 在校成果：CVPR+1, ICLR+1
 * 20级硕, <span style='width: 220px'>Yuqiao Liu</span>, 毕业去向：建行总行管培生, 在校成果：ICCV+1，NeurIPS+1，TNNLS+1，国家奖学金+1，四川省优秀毕业生
