@@ -17,7 +17,7 @@ author_profile: true
 * 2023直博生, Aojun Lu, [IJCAI+1, ICML+1, CVPR+1, AAAI+1, NAS全球竞赛第一名+2, 腾讯奖学金+1]
 * 2022直博生, Yuqi Feng, [CVPR+1, ICLR+1, TNNLS+2, TKDE+1, NeurIPS+1, "互联网+"国银+1，国家奖学金+1】
 * 2022博士生, Yun Liu, [TEVC+1, TCYB+1, ICAPS+1, IJCNN+1]
-* 2022博士生, Minxiao Zhong, [与中国核动力研究设计院联培, ICIC+1, IJCNN+1, Nuclear Engineering and Design+1, IJCNN+1]
+* 2022博士生, Minxiao Zhong, [企业联培博士, ICIC+1, IJCNN+1, Nuclear Engineering and Design+1, IJCNN+1]
 * 2024硕士生, Jiawen Deng, [PRICAI+1]
 #### Part time
 * 2025博士生, Shisheng Sun
@@ -29,7 +29,7 @@ author_profile: true
 * 23级硕，<span style='width: 220px'>Han Ji</span>, 毕业去向：香港理工大学，在校成果：IJCAI+1, ICCV+2, 国家奖学金+2，四川大学优秀硕士论文
 * 23级硕，<span style='width: 220px'>Jingrong Xie</span>, 毕业去向：美团，在校成果：ICML+1, IJCNN+1，国家奖学金+1
 * 23级硕，<span style='width: 220px'>Long Chen</span>, 毕业去向：英特尔，在校成果：MIND25+1, AAAI2026+1, ICME2026+1
-* 23级硕，<span style='width: 220px'>Junchao Ke</span>, 毕业去向：百度
+* 23级硕，<span style='width: 220px'>Junchao Ke</span>, 企业连培硕士，毕业去向：百度
 * 21级博, <span style='width: 220px'>Zeqiong Lv</span>, 毕业去向：南京大学，在校成果：TEVC+1, GECCO+1, TETCI+1, ICML+1，IEEE 研究生奖学金+1，GECCO旅行奖学金+1
 * 22级硕, <span style='width: 220px'>Xiaotian Song</span>, 毕业去向：硕博连读, 在校成果：TEVC+1, TAI+1, ECCV+1, IJCAI+1, ICIC+1, TSMC+1 国家奖学金+1, 英特尔奖学金+1
 * 22级硕, <span style='width: 220px'>Shuchao Deng</span>, 毕业去向：创业,  在校成果：中国科学+1, TETCI+1, GECCO+1
