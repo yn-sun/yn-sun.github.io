@@ -15,6 +15,7 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
+* One paper about <span style="color: #FF0000">Symbolic regression based on NAS,</span> is accepted by TPAMI. Congratulations to Xiaotian, Peng, Yuwei! This submission was reviewed under TPAMI over 4 years.
 * One paper about <span style="color: #FF0000">Efficient Continual Learning,</span> is accepted by IJCV. Congratulations to Wei!
 * I am inivited to be Tutorial Chair of IEEE CEC2027!
 * I am invited to be Area Chair of NeurIPS2026!
