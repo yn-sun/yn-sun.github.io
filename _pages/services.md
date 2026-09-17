@@ -11,6 +11,8 @@ author_profile: true
 * Editorial Memeber of [Memetic Computing](https://www.springer.com/journal/12293) since 2021
   
 ## 其它学术兼职
+* Area Chair of [ICLR2027](https://iclr.cc/Conferences/2027)
+* Tutorial Chair of [IEEE CEC2027](https://ieeecec.org/2027)
 * Area Chair of [NeurIPS2026](https://neurips.cc/Conferences/2026)
 * Publication Chair of [PRICAI 2025](https://www.pricai.org/2025/index.php/organization)
 * Area Chair of [IEEE CEC2025](https://www.cec2025.org/)
