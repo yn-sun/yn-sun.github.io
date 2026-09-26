@@ -45,7 +45,7 @@ author_profile: true
 
 ## 我还指导过其他一些优秀同学（部分代表）
 ### 在我课题组实习过的本科生及获得的成果
-* Zilin Xiao [IJCNN+1，本科毕业后去美国攻读博士]
+* Zilin Xiao [IJCNN+1，本科毕业后去美国攻读博士，现工作于Meta]
 * Zirao Ren [与我合作一篇TAI论文，本科毕业后去北航读研]
 * Wenxin Zhao [SSCI+1，本科毕业后去复旦直博]
 * Rui Zhang [PRICAI+1，TEVC+1，现在香港城市大学读研]
