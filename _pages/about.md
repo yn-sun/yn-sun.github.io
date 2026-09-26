@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* Professor 教授、博导
+* Professor 教授、博导；国家青年人才计划入选者、四川大学人才办副主任
 * College of Computer Science， Sichuan University, China
 * Basic Building 414, Wangjiang Campus, Sichuan University\\
 No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
