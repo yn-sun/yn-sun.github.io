@@ -12,9 +12,12 @@ redirect_from:
 * College of Computer Science， Sichuan University, China
 * Basic Building 414, Wangjiang Campus, Sichuan University\\
 No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
+* 我每年在计算机学院招生，招生名额为硕士生5-6名，博士生3-4名。我的主要研究方向是神经网络模型的设计理论和方法，应用涉及到大模型的优化设计、预训练、持续学习、鲁棒学习等领域，课题组的毕业生去向主要是高校、国企/公务员、AI大厂。对我课题感兴趣的可以通过邮箱联系我ysun@scu.edu.cn
 
 News
 ======
+* One paper about <span style="color: #FF0000">Continual Learning of LM reasoning learning,</span> is accepted by NeurIPS2026. Congratulations to Wei!
+* One paper about <span style="color: #FF0000">Perforamnce predictor,</span> is accepted by NeurIPS2026. Congratulations to Jiawen!
 * I am invited to be Area Chair of ICLR2027!
 * One paper about <span style="color: #FF0000">Symbolic regression based on NAS,</span> is accepted by TPAMI. Congratulations to Xiaotian, Peng, Yuwei! This submission was reviewed under TPAMI over 4 years.
 * One paper about <span style="color: #FF0000">Efficient Continual Learning,</span> is accepted by IJCV. Congratulations to Wei!
