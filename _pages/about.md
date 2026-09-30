@@ -12,7 +12,7 @@ redirect_from:
 * College of Computer Science， Sichuan University, China
 * Basic Building 414, Wangjiang Campus, Sichuan University\\
 No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
-* 我每年在计算机学院招生，招生名额为硕士生5-6名，博士生3-4名，专业学位和科学学位均可，相关信息可以在我校研招办网站查询【[博士招生目录](https://yz.scu.edu.cn/bszyml/index)&nbsp;&nbsp;&nbsp;&nbsp; [硕士招生目录】(https://yz.scu.edu.cn/sszyml/index)。硕士生原则上均可以在研二后去企业实习，如果提前达到优秀毕业条件可以提前实习。课题组的毕业生去向主要是高校、国企/公务员、AI大厂，更多毕业生去向可以[点击查看](https://yn-sun.github.io/supervision/)。
+* 我每年在计算机学院招生，招生名额为硕士生5-6名，博士生3-4名，专业学位和科学学位均可，相关信息可以在我校研招办网站查询【[博士招生目录](https://yz.scu.edu.cn/bszyml/index)&nbsp;&nbsp;&nbsp;&nbsp; [硕士招生目录](https://yz.scu.edu.cn/sszyml/index)】。硕士生原则上均可以在研二后去企业实习，如果提前达到优秀毕业条件可以提前实习。课题组的毕业生去向主要是高校、国企/公务员、AI大厂，更多毕业生去向可以[点击查看](https://yn-sun.github.io/supervision/)。
 * 我的主要研究方向是神经网络模型的设计理论和方法，应用涉及到大模型的优化设计、预训练/后训练、持续学习、鲁棒学习、机器学习自进化等领域，课题组的GPU计算资源充足，对我课题感兴趣的可以通过邮箱联系我 ysun@scu.edu.cn
 
 News
