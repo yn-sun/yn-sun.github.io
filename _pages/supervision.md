@@ -19,7 +19,7 @@ author_profile: true
 * 2025博士生, Wei Li [IJCV+1, NeurIPS+1]
 * 2025级硕士生，Chaoyang Wei
 * 2025级硕士生，Xingyue Fan
-* 025级硕士生，Nuoyi Wei
+* 2025级硕士生，Nuoyi Wei
 * 2025级硕士生，Zhijun Hong
 * 2023直博生, Aojun Lu, [IJCAI+1, ICML+1, CVPR+1, AAAI+1, NAS全球竞赛第一名+2, 腾讯奖学金+1]
 * 2022直博生, Yuqi Feng, [CVPR+1, ICLR+1, TNNLS+2, TKDE+1, NeurIPS+1, "互联网+"国银+1，国家奖学金+1】
