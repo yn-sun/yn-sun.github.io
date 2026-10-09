@@ -12,6 +12,7 @@ author_profile: true
 * 2026直博生, Xiangqi Niu
 * 2026博士生, Jingjing Ma
 * 2026博士生, Yihan Yang
+* 2026硕士生，Xiangfei Liao
 * 2025博士生, Xiaotian Song [ToC+1, ICME+1, TPAMI+1]
 * 2025直博生, Chunhui Ding [PRICAI+1]
 * 2025博士生，Wei Li [IJCV+1, NeurIPS+1]
