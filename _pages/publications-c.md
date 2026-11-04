@@ -6,7 +6,7 @@ author_profile: true
 ---
 *indicating the corresponding author
 
-1. Jiawen Deng, Yuqi Feng, Han Ji, **Yanan Sun***, "TARP: Trace-anchored regularization prior for retaining stepwise reasoning," <i>The 40th Conference on Neural Information Processing Systems (NeurIPS2026)</i>, Sydney, USA, 6th-12th December, 2026. [[http]](https://openreview.net/pdf?id=dx2kKJoPQl) [source code](https://github.com/WanNaa/TARP)
+1. Wei Li, Tao Feng, Hangjie Yuan, Aojun Lu, **Yanan Sun***, "TARP: Trace-anchored regularization prior for retaining stepwise reasoning," <i>The 40th Conference on Neural Information Processing Systems (NeurIPS2026)</i>, Sydney, USA, 6th-12th December, 2026. [[http]](https://openreview.net/pdf?id=dx2kKJoPQl) [source code](https://github.com/WanNaa/TARP)
 2. Jiawen Deng, Yuqi Feng, Han Ji, **Yanan Sun***, "ACDP: Architecture-aware cross-dataset performance predictor for NAS," <i>The 40th Conference on Neural Information Processing Systems (NeurIPS2026)</i>, Sydney, USA, 6th-12th December, 2026. [[http]](https://openreview.net/pdf?id=Cr87H0HSqL) [source code](https://github.com/Thorn-222/ACDP)
 3. Jingyue Cong, Kai Wei, Yameng Peng, **Yanan Sun**, Andy Song, "When Fitness Is Cheap: Pareto-Based Evolutionary Optimisation for Lightweight Neural Architectures," <i>The Genetic and Evolutionary Computation Conference 2026 (GECCO2026)</i>, July 13-17, 2026, San José, Costa Rica.
 4. Sri Srinivasa Raju Modampuri, Aojun Lu, **Yanan Sun***, "A Proxy-Guided Multi-Objective Framework for Configuration Optimization in Merging Large Language Models," <i>The Genetic and Evolutionary Computation Conference 2026 (GECCO2026)</i>, July 13-17, 2026, San José, Costa Rica.
