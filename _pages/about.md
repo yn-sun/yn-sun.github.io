@@ -17,6 +17,8 @@ No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
 
 News
 ======
+* One paper about <span style="color: #FF0000">Neural architecture Learning,</span> is accepted by SCIENCE CHINA Information Sciences. Congratulations to Yuqi and Zixuan! 
+* One paper about <span style="color: #FF0000">Efficient Continual Learning,</span> is accepted by CAAI Transactions on Intelligence Technology. Congratulations to Prof. Gao! 
 * One paper about <span style="color: #FF0000">Efficient NAS,</span> is accepted by TSMC. Congratulations to Junhao!
 * One paper about <span style="color: #FF0000">Continual Learning of LM reasoning learning,</span> is accepted by NeurIPS2026. Congratulations to Wei!
 * One paper about <span style="color: #FF0000">Perforamnce predictor,</span> is accepted by NeurIPS2026. Congratulations to Jiawen!
