@@ -12,7 +12,7 @@ author_profile: true
 3. **孙亚楠**, 吕泽琼, 冯雨麒, 吕建成 著. 自动化机器学习, 北京: 科学出版社, 2025. (ISBN 9787030814333)  [[购买链接]](https://www.ecsponline.com/goods.php?id=227870) &nbsp;&nbsp;&nbsp;  
 
 ## Journal Papers
-1. Yuqi Feng, Jingrong Xie, Chunhui Ding, Andy Song, Zixuan Liang, Ke Li, *Yanan Sun**, "Component knowledge learning for generalizable neural architecture design," <i>SCIENCE CHINA Information Sciences</i>, 2026. Early Access, [source code](https://github.com/fyqsama/NAL)
+1. Yuqi Feng, Jingrong Xie, Chunhui Ding, Andy Song, Zixuan Liang, Ke Li, **Yanan Sun***, "Component knowledge learning for generalizable neural architecture design," <i>SCIENCE CHINA Information Sciences</i>, 2026. Early Access, [source code](https://github.com/fyqsama/NAL)
 2. Lin Zhong, Qingya Sui, Yanan Sun, Xin Luo, Zhenyu Lei, Zhe Xu, Shangce Gao, "Past knowledge repetition-based distillation for continual learning," <i> CAAI Transactions on Intelligence Technology</i>, 2026. Early Access
 3. Sri Srinivasa Raju Modampuri, Jiahao Fan, Yongsheng Sang, **Yanan Sun***, Mengjie Zhang, Gary G. Yen, "A two-stage evolutionary algorithm with subregion-aware selection for constrained multi-objective optimization," <i> Applied Soft Computing</i>, 2026, DOI:10.1016/j.asoc.2026.116764 [[http]](https://www.sciencedirect.com/science/article/abs/pii/S156849462602212X)  [source code](https://github.com/mssraju/TS-HC3)
 4. Junhao Huang, Bing Xue, **Yanan Sun***, Mengjie Zhang, Gary G. Yen, "Multi-objective zero-shot neural architecture search via double perturbation perception," <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, 2026, DOI:10.1109/TSMC.2026.3745687. [[http]](https://ieeexplore.ieee.org/document/11770948/)   [source code](https://github.com/HuangJunh/DPP)
